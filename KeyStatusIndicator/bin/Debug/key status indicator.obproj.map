@@ -1,0 +1,1577 @@
+﻿<Mappings><Entry OldName="KeyStatusIndicator.ContextMenuHelper.DtFrom" NewName="A.c503043376774f297b1d7fea6ae53d369.cb30517fe736d45536e89df81a925d735" />
+<Entry OldName="KeyStatusIndicator.ContextMenuHelper.DtLast" NewName="A.c503043376774f297b1d7fea6ae53d369.c2b74d0b74bfbcbd4ee1cd70e61942c4c" />
+<Entry OldName="KeyStatusIndicator.ContextMenuHelper.DtTo" NewName="A.c503043376774f297b1d7fea6ae53d369.c856a4cc931199dabc0e2e9dd2fd51fe0" />
+<Entry OldName="KeyStatusIndicator.ContextMenuHelper.Ve" NewName="A.c503043376774f297b1d7fea6ae53d369.cf7062afa6d5796e74637e7394a31c5f0" />
+<Entry OldName="KeyStatusIndicator.CustomForm.BackGroundImg" NewName="KeyStatusIndicator.CustomForm.c990f571e2134d31cc1b7fa3986a0dbff" />
+<Entry OldName="KeyStatusIndicator.CustomForm.tooltip" NewName="KeyStatusIndicator.CustomForm.c28484743834dad4b74417a9cf943edb1" />
+<Entry OldName="KeyStatusIndicator.CustomForm.components" NewName="KeyStatusIndicator.CustomForm.ca28178125c77c1c37bbf7aad662b35ee" />
+<Entry OldName="KeyStatusIndicator.frmAbout.components" NewName="KeyStatusIndicator.frmAbout.ca28178125c77c1c37bbf7aad662b35ee" />
+<Entry OldName="KeyStatusIndicator.frmAbout.lblAbout" NewName="KeyStatusIndicator.frmAbout.cecc336d2ca14caa0a62cf46de8564caf" />
+<Entry OldName="KeyStatusIndicator.frmAbout.btnClose" NewName="KeyStatusIndicator.frmAbout.c09ea26e04741e712227a306c560a4be5" />
+<Entry OldName="KeyStatusIndicator.frmAbout.pictureBox1" NewName="KeyStatusIndicator.frmAbout.ceed7267596f87ea5028154d8931ac3ae" />
+<Entry OldName="KeyStatusIndicator.frmAbout.linkLabel1" NewName="KeyStatusIndicator.frmAbout.c80b0dbfe9bcba2f6e503dafdb40a7286" />
+<Entry OldName="KeyStatusIndicator.frmAbout.label1" NewName="KeyStatusIndicator.frmAbout.c2df382787501a5bdd22c105c1734f234" />
+<Entry OldName="KeyStatusIndicator.frmAbout.label2" NewName="KeyStatusIndicator.frmAbout.c76f2e8387bcbec4fa9df8d44a3614318" />
+<Entry OldName="KeyStatusIndicator.frmAbout.linkLabel2" NewName="KeyStatusIndicator.frmAbout.c4f0e37dc837c4173360186bea2bc4e0b" />
+<Entry OldName="KeyStatusIndicator.frmAbout.niceLine1" NewName="KeyStatusIndicator.frmAbout.c0cb5de09990820310ce8bfa3023b5b35" />
+<Entry OldName="KeyStatusIndicator.frmAbout.niceLine3" NewName="KeyStatusIndicator.frmAbout.cebdc8fc1d27fd1a3d22c0ff680a503d9" />
+<Entry OldName="KeyStatusIndicator.frmAbout.label3" NewName="KeyStatusIndicator.frmAbout.c77f54fb9954874095096daec66c0d30d" />
+<Entry OldName="KeyStatusIndicator.frmAbout.ullProductWebpage" NewName="KeyStatusIndicator.frmAbout.cea2e10f73ae6b34bf0032a3df4cdb470" />
+<Entry OldName="KeyStatusIndicator.frmAbout.btnBuy" NewName="KeyStatusIndicator.frmAbout.ccd1c11e7efad760da63baa3422ce26ce" />
+<Entry OldName="KeyStatusIndicator.frmAbout.lblRegistered" NewName="KeyStatusIndicator.frmAbout.cba404c8ce6e7b8686d14da4481994b8e" />
+<Entry OldName="KeyStatusIndicator.frmAbout.btnRegister" NewName="KeyStatusIndicator.frmAbout.c0cc80eed6fbe099103b5100291497cc6" />
+<Entry OldName="KeyStatusIndicator.frmAbout.niceLine2" NewName="KeyStatusIndicator.frmAbout.ccb616b0172234c048ee6d5301cb362c1" />
+<Entry OldName="KeyStatusIndicator.frmAbout.label4" NewName="KeyStatusIndicator.frmAbout.cc9d2ba4ab3c24bd0a976e5056dc0262c" />
+<Entry OldName="KeyStatusIndicator.frmAbout.lblLicenseKey" NewName="KeyStatusIndicator.frmAbout.c8ff4fcf8b06f50f00b61086e1125f12c" />
+<Entry OldName="KeyStatusIndicator.frmAbout.niceLine4" NewName="KeyStatusIndicator.frmAbout.c1c56dea5df9574aa711e3c644a28e648" />
+<Entry OldName="KeyStatusIndicator.frmAbout.label5" NewName="KeyStatusIndicator.frmAbout.c30a3d68cb608cfd21b7bbd5807b67f62" />
+<Entry OldName="KeyStatusIndicator.frmAdeia.components" NewName="KeyStatusIndicator.frmAdeia.ca28178125c77c1c37bbf7aad662b35ee" />
+<Entry OldName="KeyStatusIndicator.frmAdeia.label1" NewName="KeyStatusIndicator.frmAdeia.c2df382787501a5bdd22c105c1734f234" />
+<Entry OldName="KeyStatusIndicator.frmAdeia.btnOK" NewName="KeyStatusIndicator.frmAdeia.c752249d782f613df0cfa2f020b6af872" />
+<Entry OldName="KeyStatusIndicator.frmAdeia.label2" NewName="KeyStatusIndicator.frmAdeia.c76f2e8387bcbec4fa9df8d44a3614318" />
+<Entry OldName="KeyStatusIndicator.frmAdeia.btnExit" NewName="KeyStatusIndicator.frmAdeia.cb09a1ceb147a329d997e92b544663336" />
+<Entry OldName="KeyStatusIndicator.frmAdeia.lblAppName" NewName="KeyStatusIndicator.frmAdeia.c7620dd43be4f3388f34ce2686efa824f" />
+<Entry OldName="KeyStatusIndicator.frmBalloonTip.locEnum" NewName="KeyStatusIndicator.frmBalloonTip.cc4fdc63df917a0112a87c1e09463ee10" />
+<Entry OldName="KeyStatusIndicator.frmBalloonTip.Caption" NewName="KeyStatusIndicator.frmBalloonTip.c7eb7258151e311d8f73a6c653db21963" />
+<Entry OldName="KeyStatusIndicator.frmBalloonTip.OffsetX" NewName="KeyStatusIndicator.frmBalloonTip.c1902214711817cbce43502b956b0472b" />
+<Entry OldName="KeyStatusIndicator.frmBalloonTip.OffsetY" NewName="KeyStatusIndicator.frmBalloonTip.c32f526bd311aa96190f93148abc5997c" />
+<Entry OldName="KeyStatusIndicator.frmBalloonTip.FontSize" NewName="KeyStatusIndicator.frmBalloonTip.c19f000d37ebab189fbcfae19e63ffc73" />
+<Entry OldName="KeyStatusIndicator.frmBalloonTip.KeyOn" NewName="KeyStatusIndicator.frmBalloonTip.cbba556e8ea7e7b7b30404708c288c6db" />
+<Entry OldName="KeyStatusIndicator.frmBalloonTip.FadeIn" NewName="KeyStatusIndicator.frmBalloonTip.c3223191dd0e4ae268f82b5f0e317b611" />
+<Entry OldName="KeyStatusIndicator.frmBalloonTip.OnColor" NewName="KeyStatusIndicator.frmBalloonTip.cc330e3457cd522d90e359163c5bc70b9" />
+<Entry OldName="KeyStatusIndicator.frmBalloonTip.OffColor" NewName="KeyStatusIndicator.frmBalloonTip.c6d34e9c74be678915d3df936bcd3c2ff" />
+<Entry OldName="KeyStatusIndicator.frmBalloonTip.Count" NewName="KeyStatusIndicator.frmBalloonTip.c19eb87689ab564895a3dbc9f0c060e85" />
+<Entry OldName="KeyStatusIndicator.frmBalloonTip.components" NewName="KeyStatusIndicator.frmBalloonTip.ca28178125c77c1c37bbf7aad662b35ee" />
+<Entry OldName="KeyStatusIndicator.frmBalloonTip.timBalloon" NewName="KeyStatusIndicator.frmBalloonTip.cfaffecd1a6ed3e094725924720bd8163" />
+<Entry OldName="KeyStatusIndicator.frmBalloonTip.pic" NewName="KeyStatusIndicator.frmBalloonTip.cac8a8632a41418fd546af69fe990aee4" />
+<Entry OldName="KeyStatusIndicator.frmDownloadUpdate._DownloadFile" NewName="KeyStatusIndicator.frmDownloadUpdate.c87de8c68b735a9d9d7fdea1073a467f3" />
+<Entry OldName="KeyStatusIndicator.frmDownloadUpdate.components" NewName="KeyStatusIndicator.frmDownloadUpdate.ca28178125c77c1c37bbf7aad662b35ee" />
+<Entry OldName="KeyStatusIndicator.frmDownloadUpdate.pgBar" NewName="KeyStatusIndicator.frmDownloadUpdate.c7c85722236fb60a8f72a7993a62a5ffe" />
+<Entry OldName="KeyStatusIndicator.frmDownloadUpdate.btnCancelDownload" NewName="KeyStatusIndicator.frmDownloadUpdate.cabd925b746425c144bf9bd0cadd7cb8d" />
+<Entry OldName="KeyStatusIndicator.frmDownloadUpdate.bwDownload" NewName="KeyStatusIndicator.frmDownloadUpdate.c766d3253fa9d9e0120de882ae41bad52" />
+<Entry OldName="KeyStatusIndicator.frmDownloadUpdate.label1" NewName="KeyStatusIndicator.frmDownloadUpdate.c2df382787501a5bdd22c105c1734f234" />
+<Entry OldName="KeyStatusIndicator.frmDownloadUpdate.lblTotalSize" NewName="KeyStatusIndicator.frmDownloadUpdate.ceaedb95890d75a0209f280f613c1884d" />
+<Entry OldName="KeyStatusIndicator.frmError.components" NewName="KeyStatusIndicator.frmError.ca28178125c77c1c37bbf7aad662b35ee" />
+<Entry OldName="KeyStatusIndicator.frmError.txtError" NewName="KeyStatusIndicator.frmError.c82444f2a9c3c061febbab9a84b710136" />
+<Entry OldName="KeyStatusIndicator.frmError.pictureBox1" NewName="KeyStatusIndicator.frmError.ceed7267596f87ea5028154d8931ac3ae" />
+<Entry OldName="KeyStatusIndicator.frmError.btnClose" NewName="KeyStatusIndicator.frmError.c09ea26e04741e712227a306c560a4be5" />
+<Entry OldName="KeyStatusIndicator.frmKeyPressed.components" NewName="KeyStatusIndicator.frmKeyPressed.ca28178125c77c1c37bbf7aad662b35ee" />
+<Entry OldName="KeyStatusIndicator.frmLanguage.components" NewName="KeyStatusIndicator.frmLanguage.ca28178125c77c1c37bbf7aad662b35ee" />
+<Entry OldName="KeyStatusIndicator.frmLanguage.label1" NewName="KeyStatusIndicator.frmLanguage.c2df382787501a5bdd22c105c1734f234" />
+<Entry OldName="KeyStatusIndicator.frmLanguage.cmbLanguage" NewName="KeyStatusIndicator.frmLanguage.c1b54891884fe096d1c59f18c30d1290a" />
+<Entry OldName="KeyStatusIndicator.frmLanguage.btnOK" NewName="KeyStatusIndicator.frmLanguage.c752249d782f613df0cfa2f020b6af872" />
+<Entry OldName="KeyStatusIndicator.frmMain.frmCapsLock" NewName="KeyStatusIndicator.frmMain.ca85c93807a2d2f26b444ebe2b0de604a" />
+<Entry OldName="KeyStatusIndicator.frmMain.frmNumLock" NewName="KeyStatusIndicator.frmMain.c3786edb762aee95a0a87dd96602157c8" />
+<Entry OldName="KeyStatusIndicator.frmMain.frmScrollLock" NewName="KeyStatusIndicator.frmMain.c10a05cbf8a841fffff5346374ca077d4" />
+<Entry OldName="KeyStatusIndicator.frmMain.frmInsert" NewName="KeyStatusIndicator.frmMain.c499d2213b18d34a6e7aed6f537844fe4" />
+<Entry OldName="KeyStatusIndicator.frmMain.bmpCapsLockOn" NewName="KeyStatusIndicator.frmMain.c9b44acc656816c0278e76fe4b981489b" />
+<Entry OldName="KeyStatusIndicator.frmMain.bmpNumLockOn" NewName="KeyStatusIndicator.frmMain.c43641b3af80a7e64290c688e9a193612" />
+<Entry OldName="KeyStatusIndicator.frmMain.bmpScrollLockOn" NewName="KeyStatusIndicator.frmMain.c16552d501c30cc809a3a3ecee1fe8e7f" />
+<Entry OldName="KeyStatusIndicator.frmMain.bmpInsertOn" NewName="KeyStatusIndicator.frmMain.cc64b510e9458f2c91a0483d272273d0c" />
+<Entry OldName="KeyStatusIndicator.frmMain.bmpCapsLockOff" NewName="KeyStatusIndicator.frmMain.cdff9903b70b24858d273c08ed1aa4c37" />
+<Entry OldName="KeyStatusIndicator.frmMain.bmpNumLockOff" NewName="KeyStatusIndicator.frmMain.c03abcbf899e50aed21c0a9bd50ff1675" />
+<Entry OldName="KeyStatusIndicator.frmMain.bmpScrollLockOff" NewName="KeyStatusIndicator.frmMain.c916913bee07536029cc253ef53eb2a9d" />
+<Entry OldName="KeyStatusIndicator.frmMain.bmpInsertOff" NewName="KeyStatusIndicator.frmMain.ce3a5280acda48e21555ff5a22a756301" />
+<Entry OldName="KeyStatusIndicator.frmMain.IconCapsLockOn" NewName="KeyStatusIndicator.frmMain.c943a4186649c2f3174e07f2b1799238b" />
+<Entry OldName="KeyStatusIndicator.frmMain.IconNumLockOn" NewName="KeyStatusIndicator.frmMain.c13d8ac1c0633a4951e808b570a43ba66" />
+<Entry OldName="KeyStatusIndicator.frmMain.IconScrollLockOn" NewName="KeyStatusIndicator.frmMain.cb540b5e156289a0266f867c914370c9d" />
+<Entry OldName="KeyStatusIndicator.frmMain.IconInsertOn" NewName="KeyStatusIndicator.frmMain.c335f7c9415f47756a7cdaaaa11f77354" />
+<Entry OldName="KeyStatusIndicator.frmMain.IconCapsLockOff" NewName="KeyStatusIndicator.frmMain.ca4fa8bc62ee0bf7e721314186e657ba5" />
+<Entry OldName="KeyStatusIndicator.frmMain.IconNumLockOff" NewName="KeyStatusIndicator.frmMain.cd71fe1941913129ded9ad7b084b4d6e4" />
+<Entry OldName="KeyStatusIndicator.frmMain.IconScrollLockOff" NewName="KeyStatusIndicator.frmMain.c89c92bdf87f20030cf05a4063b341dcc" />
+<Entry OldName="KeyStatusIndicator.frmMain.IconInsertOff" NewName="KeyStatusIndicator.frmMain.c03f0f51f487c13b46f12dffd489fefb2" />
+<Entry OldName="KeyStatusIndicator.frmMain.frmBalloonNum" NewName="KeyStatusIndicator.frmMain.cbe9663ebb643586f51279aeb3bfab669" />
+<Entry OldName="KeyStatusIndicator.frmMain.frmBalloonCaps" NewName="KeyStatusIndicator.frmMain.c7c0ff9cf8c5a6118d606d9f471e8734d" />
+<Entry OldName="KeyStatusIndicator.frmMain.frmBalloonScroll" NewName="KeyStatusIndicator.frmMain.cc0b60783e0ff1248329b4c9b9055c34d" />
+<Entry OldName="KeyStatusIndicator.frmMain.frmBalloonInsert" NewName="KeyStatusIndicator.frmMain.cc3e617ed9431fbe7dc4ce4d454ca387b" />
+<Entry OldName="KeyStatusIndicator.frmMain.lstfrmBaloonTip" NewName="KeyStatusIndicator.frmMain.c97dd079528867cc75d82e28b93c4c582" />
+<Entry OldName="KeyStatusIndicator.frmMain.lstKeyNotifyIcon" NewName="KeyStatusIndicator.frmMain.cae7bb6450cb9e015fefb9973d58a230c" />
+<Entry OldName="KeyStatusIndicator.frmMain.lstMCIOn" NewName="KeyStatusIndicator.frmMain.c37d0c04e88623379bdbd13ac9d8b8b34" />
+<Entry OldName="KeyStatusIndicator.frmMain.lstMCIOff" NewName="KeyStatusIndicator.frmMain.cc5adbcd7ab99b2f5b5bcc060b838410d" />
+<Entry OldName="KeyStatusIndicator.frmMain.IndicateKey" NewName="KeyStatusIndicator.frmMain.cf28f15d781061fb15fc4bb3e605c5378" />
+<Entry OldName="KeyStatusIndicator.frmMain.BeepKey" NewName="KeyStatusIndicator.frmMain.cbc6618709bdf178d0310ac7621fdf096" />
+<Entry OldName="KeyStatusIndicator.frmMain.InChangeLanguage" NewName="KeyStatusIndicator.frmMain.c5a1eaf4dd725e5da3071027260540627" />
+<Entry OldName="KeyStatusIndicator.frmMain.LoadedOnce" NewName="KeyStatusIndicator.frmMain.ca592ad7098bb51cf9e79c22bd3fa0215" />
+<Entry OldName="KeyStatusIndicator.frmMain.NumEnabled" NewName="KeyStatusIndicator.frmMain.cde8c9e4252eb93fe6db87e398ca72d8e" />
+<Entry OldName="KeyStatusIndicator.frmMain.Init" NewName="KeyStatusIndicator.frmMain.c3593a723ca0b9c2cbe5f4e4be297447a" />
+<Entry OldName="KeyStatusIndicator.frmMain.Init2" NewName="KeyStatusIndicator.frmMain.c9fd35acf52b7145b80d7ba68365c9cc6" />
+<Entry OldName="KeyStatusIndicator.frmMain.PreviousValues" NewName="KeyStatusIndicator.frmMain.c1baf5ee338659bbb2855bd1bb2b4fe7a" />
+<Entry OldName="KeyStatusIndicator.frmMain.InTimer" NewName="KeyStatusIndicator.frmMain.c36da778ec7fb49b15cda5c5f4ae119a4" />
+<Entry OldName="KeyStatusIndicator.frmMain.components" NewName="KeyStatusIndicator.frmMain.ca28178125c77c1c37bbf7aad662b35ee" />
+<Entry OldName="KeyStatusIndicator.frmMain.menuStrip1" NewName="KeyStatusIndicator.frmMain.cc250ebab929b8dcd642d0831d63ff92e" />
+<Entry OldName="KeyStatusIndicator.frmMain.fileToolStripMenuItem" NewName="KeyStatusIndicator.frmMain.cfdb481e4f27b38c5934b90a4fd4ea1a8" />
+<Entry OldName="KeyStatusIndicator.frmMain.exitToolStripMenuItem" NewName="KeyStatusIndicator.frmMain.c485835f3edba0f97375fcb58aefff6b7" />
+<Entry OldName="KeyStatusIndicator.frmMain.languageToolStripMenuItem" NewName="KeyStatusIndicator.frmMain.c9259be781f5cf351ec5d0dd603bca73b" />
+<Entry OldName="KeyStatusIndicator.frmMain.languages1ToolStripMenuItem" NewName="KeyStatusIndicator.frmMain.c5f8535e7b1d3c65a0ef7968a97789e39" />
+<Entry OldName="KeyStatusIndicator.frmMain.languages2ToolStripMenuItem" NewName="KeyStatusIndicator.frmMain.cbb21c09c1387750b2d3e2c1a13f9dde3" />
+<Entry OldName="KeyStatusIndicator.frmMain.buyToolStripMenuItem" NewName="KeyStatusIndicator.frmMain.cffe3532ab8db4d5ed15a88fea5575bca" />
+<Entry OldName="KeyStatusIndicator.frmMain.buyApplicationToolStripMenuItem" NewName="KeyStatusIndicator.frmMain.c64495f2f9534ba1ed3bb01bbd4f7c884" />
+<Entry OldName="KeyStatusIndicator.frmMain.enterLicenseKeyToolStripMenuItem" NewName="KeyStatusIndicator.frmMain.cee98fa3144a12b657f85425995f99e72" />
+<Entry OldName="KeyStatusIndicator.frmMain.helpToolStripMenuItem" NewName="KeyStatusIndicator.frmMain.ccdde3ea00fd423a04722dbb7b5e58a89" />
+<Entry OldName="KeyStatusIndicator.frmMain.helpGuideToolStripMenuItem" NewName="KeyStatusIndicator.frmMain.c1c33307d64a86184de6d22a451a629ad" />
+<Entry OldName="KeyStatusIndicator.frmMain.pleaseDonateToolStripMenuItem1" NewName="KeyStatusIndicator.frmMain.c7673215c2e5854d23c14fe16498d0595" />
+<Entry OldName="KeyStatusIndicator.frmMain.dotsSoftwarePRODUCTCATALOGToolStripMenuItem" NewName="KeyStatusIndicator.frmMain.cfffeb355290a36ec57b81fe7f4174129" />
+<Entry OldName="KeyStatusIndicator.frmMain.tiHelpFeedback" NewName="KeyStatusIndicator.frmMain.cad149c05f2cc50aa8927f89624b5ed0b" />
+<Entry OldName="KeyStatusIndicator.frmMain.checkForNewVersionToolStripMenuItem" NewName="KeyStatusIndicator.frmMain.c9ff760d8a20990040d4fbf4037a4269b" />
+<Entry OldName="KeyStatusIndicator.frmMain.toolStripMenuItem1" NewName="KeyStatusIndicator.frmMain.c24f34ce1aed63ebdb12f6e8ab3b11480" />
+<Entry OldName="KeyStatusIndicator.frmMain.followUsOnTwitterToolStripMenuItem" NewName="KeyStatusIndicator.frmMain.c0def0b672ae2e583026d8981d3f77e6b" />
+<Entry OldName="KeyStatusIndicator.frmMain.visit4dotsSoftwareWebsiteToolStripMenuItem" NewName="KeyStatusIndicator.frmMain.cbe3987b1aec97f64807590d936756876" />
+<Entry OldName="KeyStatusIndicator.frmMain.aboutToolStripMenuItem" NewName="KeyStatusIndicator.frmMain.ce508011122dc954dd3a9a92d3ad6ff27" />
+<Entry OldName="KeyStatusIndicator.frmMain.chkCapsLock" NewName="KeyStatusIndicator.frmMain.c041232374333e75d78a9cd3304158dac" />
+<Entry OldName="KeyStatusIndicator.frmMain.chkNumLock" NewName="KeyStatusIndicator.frmMain.c7f79b34bbc59fedd360185040566d240" />
+<Entry OldName="KeyStatusIndicator.frmMain.chkInsert" NewName="KeyStatusIndicator.frmMain.c7d6c9af56da3e9df73e5cb009dae51df" />
+<Entry OldName="KeyStatusIndicator.frmMain.chkScrollLock" NewName="KeyStatusIndicator.frmMain.c10d99037620be9848a012c8de587e741" />
+<Entry OldName="KeyStatusIndicator.frmMain.label1" NewName="KeyStatusIndicator.frmMain.c2df382787501a5bdd22c105c1734f234" />
+<Entry OldName="KeyStatusIndicator.frmMain.btnOnColor" NewName="KeyStatusIndicator.frmMain.ca23407554d3cea922729963ba2e71dc6" />
+<Entry OldName="KeyStatusIndicator.frmMain.btnOffColor" NewName="KeyStatusIndicator.frmMain.ccfc3cdffb3e4101f3d85719c00bd7613" />
+<Entry OldName="KeyStatusIndicator.frmMain.label2" NewName="KeyStatusIndicator.frmMain.c76f2e8387bcbec4fa9df8d44a3614318" />
+<Entry OldName="KeyStatusIndicator.frmMain.chkIcon" NewName="KeyStatusIndicator.frmMain.cc84a3fb6e22a9531ce8f9cc5aeb7d4ce" />
+<Entry OldName="KeyStatusIndicator.frmMain.chkSystemTray" NewName="KeyStatusIndicator.frmMain.ca6d3fb55e89c6bade053adc5059fb4c9" />
+<Entry OldName="KeyStatusIndicator.frmMain.chkScreenMessage" NewName="KeyStatusIndicator.frmMain.cb6a0b396ec3a2f14f50aa3fed5cf57d7" />
+<Entry OldName="KeyStatusIndicator.frmMain.tabControl1" NewName="KeyStatusIndicator.frmMain.ce7bdfcc2b660ed3e7976d2887d3bf251" />
+<Entry OldName="KeyStatusIndicator.frmMain.tabPage1" NewName="KeyStatusIndicator.frmMain.cdcfe139f5adcf2f3cce2725e31b3a913" />
+<Entry OldName="KeyStatusIndicator.frmMain.tabPage2" NewName="KeyStatusIndicator.frmMain.ce36db6ea996fa2a058c9b5c7da538b32" />
+<Entry OldName="KeyStatusIndicator.frmMain.cmbScreenMessage" NewName="KeyStatusIndicator.frmMain.c78f51b5d593f1d5d5e2207155b225cea" />
+<Entry OldName="KeyStatusIndicator.frmMain.label3" NewName="KeyStatusIndicator.frmMain.c77f54fb9954874095096daec66c0d30d" />
+<Entry OldName="KeyStatusIndicator.frmMain.tabPage3" NewName="KeyStatusIndicator.frmMain.c5c7193fd3ab4383e2ccb5a3e2e52591a" />
+<Entry OldName="KeyStatusIndicator.frmMain.nudOffsetY" NewName="KeyStatusIndicator.frmMain.cb8956e8bc03146579c995dda50745cf5" />
+<Entry OldName="KeyStatusIndicator.frmMain.label5" NewName="KeyStatusIndicator.frmMain.c30a3d68cb608cfd21b7bbd5807b67f62" />
+<Entry OldName="KeyStatusIndicator.frmMain.nudOffsetX" NewName="KeyStatusIndicator.frmMain.c2a323da31160345e8c2344744ef6ed54" />
+<Entry OldName="KeyStatusIndicator.frmMain.label4" NewName="KeyStatusIndicator.frmMain.cc9d2ba4ab3c24bd0a976e5056dc0262c" />
+<Entry OldName="KeyStatusIndicator.frmMain.chkBeep" NewName="KeyStatusIndicator.frmMain.c24ec09df3b25ede8d0716c8517ff1505" />
+<Entry OldName="KeyStatusIndicator.frmMain.btnBrowseOff" NewName="KeyStatusIndicator.frmMain.ce0c5f4c5f1e5a0f63b9d78ce55ff728a" />
+<Entry OldName="KeyStatusIndicator.frmMain.btnBrowseOn" NewName="KeyStatusIndicator.frmMain.c6db8a64521b638b33dee6593387bad37" />
+<Entry OldName="KeyStatusIndicator.frmMain.cmbOffSound" NewName="KeyStatusIndicator.frmMain.c3a43e894eaa6ae702cf5f4627df0a621" />
+<Entry OldName="KeyStatusIndicator.frmMain.cmbOnSound" NewName="KeyStatusIndicator.frmMain.c6cb82d30ba1b5b69acabc3bfbf218358" />
+<Entry OldName="KeyStatusIndicator.frmMain.nudFontSize" NewName="KeyStatusIndicator.frmMain.c3bc464d5db9fc369f7ac100be00d96cf" />
+<Entry OldName="KeyStatusIndicator.frmMain.label8" NewName="KeyStatusIndicator.frmMain.c5ae75f338f4ecda2eb9d174ee992fbc3" />
+<Entry OldName="KeyStatusIndicator.frmMain.btnOK" NewName="KeyStatusIndicator.frmMain.c752249d782f613df0cfa2f020b6af872" />
+<Entry OldName="KeyStatusIndicator.frmMain.btnExit" NewName="KeyStatusIndicator.frmMain.cb09a1ceb147a329d997e92b544663336" />
+<Entry OldName="KeyStatusIndicator.frmMain.tabPage4" NewName="KeyStatusIndicator.frmMain.c80e0069bd4de5be28b1f4b31cda5724b" />
+<Entry OldName="KeyStatusIndicator.frmMain.chkRunLocalMachine" NewName="KeyStatusIndicator.frmMain.c55910e5612abf9e2b4efcaf7b2093456" />
+<Entry OldName="KeyStatusIndicator.frmMain.chkRunCurrentUser" NewName="KeyStatusIndicator.frmMain.c053a50925894febddafbd78fa8d43031" />
+<Entry OldName="KeyStatusIndicator.frmMain.notMain" NewName="KeyStatusIndicator.frmMain.c6839c7f20d858a822472cd95cfc65969" />
+<Entry OldName="KeyStatusIndicator.frmMain.cmsMain" NewName="KeyStatusIndicator.frmMain.c979f374baf58711e48cb401479b96982" />
+<Entry OldName="KeyStatusIndicator.frmMain.showToolStripMenuItem" NewName="KeyStatusIndicator.frmMain.cadb9ff027781f539b8aeeeda9323abdc" />
+<Entry OldName="KeyStatusIndicator.frmMain.exitToolStripMenuItem1" NewName="KeyStatusIndicator.frmMain.c756da9fd2f4e3efd9da1f091f8d43b1f" />
+<Entry OldName="KeyStatusIndicator.frmMain.label9" NewName="KeyStatusIndicator.frmMain.ccc19e1a9b6a9fc6bf1112a404d97801a" />
+<Entry OldName="KeyStatusIndicator.frmMain.label10" NewName="KeyStatusIndicator.frmMain.c24e16ee45e931257fd4d2f71022f3366" />
+<Entry OldName="KeyStatusIndicator.frmMain.label11" NewName="KeyStatusIndicator.frmMain.cef6bfcf042655718c9b0e1231cef03db" />
+<Entry OldName="KeyStatusIndicator.frmMain.chkOffSound" NewName="KeyStatusIndicator.frmMain.c372f3844795856f0d134eaf65d9ac320" />
+<Entry OldName="KeyStatusIndicator.frmMain.chkOnSound" NewName="KeyStatusIndicator.frmMain.c4543a1b3d0c49e60c987a6f0118c1063" />
+<Entry OldName="KeyStatusIndicator.frmMain.openSettingsFileToolStripMenuItem" NewName="KeyStatusIndicator.frmMain.cb89742a8514e93729de601ccae71d7c0" />
+<Entry OldName="KeyStatusIndicator.frmMain.saveSettingsFileToolStripMenuItem" NewName="KeyStatusIndicator.frmMain.c5ad7881af6b3e4a297c60939f022cfb1" />
+<Entry OldName="KeyStatusIndicator.frmMain.tabPage5" NewName="KeyStatusIndicator.frmMain.c20aee4675dcc7d4ef9f8438b7259a6cb" />
+<Entry OldName="KeyStatusIndicator.frmMain.chkNumOffS" NewName="KeyStatusIndicator.frmMain.c9e9dec0b391e8c69a2770ec5454e99ea" />
+<Entry OldName="KeyStatusIndicator.frmMain.chkNumOnS" NewName="KeyStatusIndicator.frmMain.c28798176ea45c97ddcd2684a5624ab91" />
+<Entry OldName="KeyStatusIndicator.frmMain.chkNumBeep" NewName="KeyStatusIndicator.frmMain.c18b9955256694d1d990364aa616d8b05" />
+<Entry OldName="KeyStatusIndicator.frmMain.btnBrowseNumOffS" NewName="KeyStatusIndicator.frmMain.cc4d5ae99fdf5a6339e807b7a2f58a6c6" />
+<Entry OldName="KeyStatusIndicator.frmMain.btnBrowseNumOnS" NewName="KeyStatusIndicator.frmMain.c140b57972e225e604b9700edab67391c" />
+<Entry OldName="KeyStatusIndicator.frmMain.cmbNumOffS" NewName="KeyStatusIndicator.frmMain.ce05680bed48c8ab45199fd77cbc48773" />
+<Entry OldName="KeyStatusIndicator.frmMain.cmbNumOnS" NewName="KeyStatusIndicator.frmMain.cc785480dc115042970569fbada5235ee" />
+<Entry OldName="KeyStatusIndicator.frmMain.btnNumColOff" NewName="KeyStatusIndicator.frmMain.c27284b986095f5ff8ae6849d4e7c811d" />
+<Entry OldName="KeyStatusIndicator.frmMain.label6" NewName="KeyStatusIndicator.frmMain.c5a4dff80c58271e0147314b84c788ea4" />
+<Entry OldName="KeyStatusIndicator.frmMain.btnNumColOn" NewName="KeyStatusIndicator.frmMain.cfc54d088fd62358d44415415f31d3665" />
+<Entry OldName="KeyStatusIndicator.frmMain.label7" NewName="KeyStatusIndicator.frmMain.cadce68a98a5c0e1a4f1289a963bed092" />
+<Entry OldName="KeyStatusIndicator.frmMain.chkNumSpecific" NewName="KeyStatusIndicator.frmMain.c402b4c8df610782e2e76fea410e99a0f" />
+<Entry OldName="KeyStatusIndicator.frmMain.tabPage6" NewName="KeyStatusIndicator.frmMain.c9ebc8460f501cdfaaa44b8d72e803af8" />
+<Entry OldName="KeyStatusIndicator.frmMain.chkCapsOffS" NewName="KeyStatusIndicator.frmMain.cc4538e6a7c96598c8e343d05f4cb95dc" />
+<Entry OldName="KeyStatusIndicator.frmMain.chkCapsOnS" NewName="KeyStatusIndicator.frmMain.c13bc45decf9d60b08e6f2f8e85383433" />
+<Entry OldName="KeyStatusIndicator.frmMain.chkCapsBeep" NewName="KeyStatusIndicator.frmMain.c0ef3888a034d57be0e7602f2891b7e64" />
+<Entry OldName="KeyStatusIndicator.frmMain.btnBrowseCapsOffS" NewName="KeyStatusIndicator.frmMain.c1f27997d34f8f1eec106fb41bbf83435" />
+<Entry OldName="KeyStatusIndicator.frmMain.btnBrowseCapsOnS" NewName="KeyStatusIndicator.frmMain.cac58998781d1bcdbcd88a5f6a1ca5514" />
+<Entry OldName="KeyStatusIndicator.frmMain.cmbCapsOffS" NewName="KeyStatusIndicator.frmMain.c361e2ff8b548890f38e7f058143a9362" />
+<Entry OldName="KeyStatusIndicator.frmMain.cmbCapsOnS" NewName="KeyStatusIndicator.frmMain.c8fed6dbbbde7e1cbabbccaab6d29060a" />
+<Entry OldName="KeyStatusIndicator.frmMain.btnCapsColOff" NewName="KeyStatusIndicator.frmMain.c0b52c01fae63b92c19a9e9d40d6697a7" />
+<Entry OldName="KeyStatusIndicator.frmMain.label12" NewName="KeyStatusIndicator.frmMain.cbd5aeb4e715020d0b5db2382915ced3e" />
+<Entry OldName="KeyStatusIndicator.frmMain.btnCapsColOn" NewName="KeyStatusIndicator.frmMain.c4174f2f61244aa2d517d252bec14ee16" />
+<Entry OldName="KeyStatusIndicator.frmMain.label13" NewName="KeyStatusIndicator.frmMain.c62cebbda5d61d038e50ef14aa9b88998" />
+<Entry OldName="KeyStatusIndicator.frmMain.chkCapsSpecific" NewName="KeyStatusIndicator.frmMain.cfb863aa31610532bb67048ccf6b51afb" />
+<Entry OldName="KeyStatusIndicator.frmMain.tabPage7" NewName="KeyStatusIndicator.frmMain.c56c64a9a5812304a15ec6af4b6b5122b" />
+<Entry OldName="KeyStatusIndicator.frmMain.chkScrollOffS" NewName="KeyStatusIndicator.frmMain.c8aef02f290d5d63a21b561bc91cb76b5" />
+<Entry OldName="KeyStatusIndicator.frmMain.chkScrollOnS" NewName="KeyStatusIndicator.frmMain.cfdc8ef5a2827c563d37c96ae4cde15be" />
+<Entry OldName="KeyStatusIndicator.frmMain.chkScrollBeep" NewName="KeyStatusIndicator.frmMain.c1ee96aa9063f3e3c9210660af2dc126f" />
+<Entry OldName="KeyStatusIndicator.frmMain.btnScrollOffS" NewName="KeyStatusIndicator.frmMain.ccbf04c43f76e267c19a2d88f03dacc79" />
+<Entry OldName="KeyStatusIndicator.frmMain.btnScrollOnS" NewName="KeyStatusIndicator.frmMain.c8e464d24ae4a78363d2f0fd020d32d40" />
+<Entry OldName="KeyStatusIndicator.frmMain.cmbScrollOffS" NewName="KeyStatusIndicator.frmMain.c06a3c666bb63e60c12b2411f42c47de6" />
+<Entry OldName="KeyStatusIndicator.frmMain.cmbScrollOnS" NewName="KeyStatusIndicator.frmMain.c66359bcce8cc5a07d0fdde321a64f6bd" />
+<Entry OldName="KeyStatusIndicator.frmMain.btnScrollColOff" NewName="KeyStatusIndicator.frmMain.c18ee8b60c05b0269bf6a0ef34aa98341" />
+<Entry OldName="KeyStatusIndicator.frmMain.label14" NewName="KeyStatusIndicator.frmMain.c60af7c9fabcec037885d993978dd14b4" />
+<Entry OldName="KeyStatusIndicator.frmMain.btnScrollColOn" NewName="KeyStatusIndicator.frmMain.c75839722a6c490eb903f8066c44f1fc7" />
+<Entry OldName="KeyStatusIndicator.frmMain.label15" NewName="KeyStatusIndicator.frmMain.ca26488b06dd2f8836527b15c4dc17e49" />
+<Entry OldName="KeyStatusIndicator.frmMain.chkScrollSpecific" NewName="KeyStatusIndicator.frmMain.c0ecb2d87e1a74f29120600c86b75e0b3" />
+<Entry OldName="KeyStatusIndicator.frmMain.tabPage8" NewName="KeyStatusIndicator.frmMain.c1e3e250f4caca0e1df236170835c02be" />
+<Entry OldName="KeyStatusIndicator.frmMain.chkInsOffS" NewName="KeyStatusIndicator.frmMain.c1a6409539c34f993bc3ec493d0c04383" />
+<Entry OldName="KeyStatusIndicator.frmMain.chkInsOns" NewName="KeyStatusIndicator.frmMain.cdd81a494fb354dbe4db4b4d4ac3fb1fc" />
+<Entry OldName="KeyStatusIndicator.frmMain.chkInsBeep" NewName="KeyStatusIndicator.frmMain.ce75f3b61c364fe8fccb14707179acba7" />
+<Entry OldName="KeyStatusIndicator.frmMain.btnBrowseInsOffS" NewName="KeyStatusIndicator.frmMain.cced4edc0d283d74ee88d47e579c6f9cc" />
+<Entry OldName="KeyStatusIndicator.frmMain.btnBrowseInsOnS" NewName="KeyStatusIndicator.frmMain.ca1c075048f7178020d4db0b953478e58" />
+<Entry OldName="KeyStatusIndicator.frmMain.cmbInsOffS" NewName="KeyStatusIndicator.frmMain.c27d5c12eb061f3d658bf4245ba365244" />
+<Entry OldName="KeyStatusIndicator.frmMain.cmbInsOn" NewName="KeyStatusIndicator.frmMain.c390757572feff6ee580aa9554640d189" />
+<Entry OldName="KeyStatusIndicator.frmMain.btnInsColOff" NewName="KeyStatusIndicator.frmMain.c5982d42af742166ab74d224bd521c60b" />
+<Entry OldName="KeyStatusIndicator.frmMain.label16" NewName="KeyStatusIndicator.frmMain.c7700c3fa92921ca04ab97653a4b405b6" />
+<Entry OldName="KeyStatusIndicator.frmMain.btnInsColOn" NewName="KeyStatusIndicator.frmMain.c6ca23b04f7aa09a53a2197fc7ea5fd4d" />
+<Entry OldName="KeyStatusIndicator.frmMain.label17" NewName="KeyStatusIndicator.frmMain.c9d599311e11570e9b11786d62b9d6d60" />
+<Entry OldName="KeyStatusIndicator.frmMain.chkInsSpecific" NewName="KeyStatusIndicator.frmMain.c33d36efe3c7ea0b1f8476858271b5750" />
+<Entry OldName="KeyStatusIndicator.frmMain.timKey" NewName="KeyStatusIndicator.frmMain.ce4b7ec4357de640fc22d498b34258d39" />
+<Entry OldName="KeyStatusIndicator.frmMain.showApplicationTrayIconToolStripMenuItem" NewName="KeyStatusIndicator.frmMain.c671930de88d1208f5d64e10c7a57f4af" />
+<Entry OldName="KeyStatusIndicator.frmMain.minimizeToSystemTrayToolStripMenuItem" NewName="KeyStatusIndicator.frmMain.c4b0fed1414249b47f9a53528bc1aee7e" />
+<Entry OldName="KeyStatusIndicator.frmMain.toolsToolStripMenuItem" NewName="KeyStatusIndicator.frmMain.c68d31cdf4c5c1febc7e9111b9573fdb7" />
+<Entry OldName="KeyStatusIndicator.frmMain.applySettingsAndStartToolStripMenuItem" NewName="KeyStatusIndicator.frmMain.cac76dff825bfa3a1f6e9f22eaf709503" />
+<Entry OldName="KeyStatusIndicator.frmMain.niceLine2" NewName="KeyStatusIndicator.frmMain.ccb616b0172234c048ee6d5301cb362c1" />
+<Entry OldName="KeyStatusIndicator.frmMain.niceLine1" NewName="KeyStatusIndicator.frmMain.c0cb5de09990820310ce8bfa3023b5b35" />
+<Entry OldName="KeyStatusIndicator.frmMain.chkMinimizeOnOK" NewName="KeyStatusIndicator.frmMain.cb5cfca73357227ae1a640a142b278bb0" />
+<Entry OldName="KeyStatusIndicator.frmMain.checkForNewVersionEachWeekToolStripMenuItem" NewName="KeyStatusIndicator.frmMain.cce340449732e382cb7ea6663499607ee" />
+<Entry OldName="KeyStatusIndicator.frmPurchase.components" NewName="KeyStatusIndicator.frmPurchase.ca28178125c77c1c37bbf7aad662b35ee" />
+<Entry OldName="KeyStatusIndicator.frmPurchase.btnBuy" NewName="KeyStatusIndicator.frmPurchase.ccd1c11e7efad760da63baa3422ce26ce" />
+<Entry OldName="KeyStatusIndicator.frmPurchase.lblMsg" NewName="KeyStatusIndicator.frmPurchase.c71e2279197614cb6590faaffc5de5d12" />
+<Entry OldName="KeyStatusIndicator.frmPurchase.btnClose" NewName="KeyStatusIndicator.frmPurchase.c09ea26e04741e712227a306c560a4be5" />
+<Entry OldName="KeyStatusIndicator.frmPurchase.lblWait" NewName="KeyStatusIndicator.frmPurchase.c0acd86eb67b5e7f1596b709a56e4e68b" />
+<Entry OldName="KeyStatusIndicator.frmPurchase.timContinue" NewName="KeyStatusIndicator.frmPurchase.c0307db6bc09c02ea525586d57e6c243f" />
+<Entry OldName="KeyStatusIndicator.frmPurchase.lblAppName" NewName="KeyStatusIndicator.frmPurchase.c7620dd43be4f3388f34ce2686efa824f" />
+<Entry OldName="KeyStatusIndicator.frmPurchase.btnRegister" NewName="KeyStatusIndicator.frmPurchase.c0cc80eed6fbe099103b5100291497cc6" />
+<Entry OldName="KeyStatusIndicator.frmPurchase.label1" NewName="KeyStatusIndicator.frmPurchase.c2df382787501a5bdd22c105c1734f234" />
+<Entry OldName="KeyStatusIndicator.ImageComboBox.imageList" NewName="A.cd9b5e4984fbe045dad48e9dde7d8ac57.c72b98640b1f9bfe22894ae3b6e178419" />
+<Entry OldName="KeyStatusIndicator.ComboBoxExItem._text" NewName="A.cbc9f121cc94c1681457b4c804eaca191.c96bd1996e786aa9ee41ac3b4b1e8fc1a" />
+<Entry OldName="KeyStatusIndicator.ComboBoxExItem._imageIndex" NewName="A.cbc9f121cc94c1681457b4c804eaca191.c522dd9806d9586f4f3f1040754d28070" />
+<Entry OldName="KeyStatusIndicator.ImagesViewHelper.DtFrom" NewName="A.cb2dda7adc5f3cb853397ac284bcee3d2.cb30517fe736d45536e89df81a925d735" />
+<Entry OldName="KeyStatusIndicator.ImagesViewHelper.DtLast" NewName="A.cb2dda7adc5f3cb853397ac284bcee3d2.c2b74d0b74bfbcbd4ee1cd70e61942c4c" />
+<Entry OldName="KeyStatusIndicator.InputModeHelper.frmad" NewName="A.c6188bed2d0cb649dc07fd358c6aa6360.c4a5f83704e08a75639693a6f82dc96cd" />
+<Entry OldName="KeyStatusIndicator.KeyNotifyIcon.icoOn" NewName="KeyStatusIndicator.KeyNotifyIcon.c772be342708a005009f7716446f07660" />
+<Entry OldName="KeyStatusIndicator.KeyNotifyIcon.icoOff" NewName="KeyStatusIndicator.KeyNotifyIcon.cbf2c8937ae61bf0fa73b2e5bff4242c5" />
+<Entry OldName="KeyStatusIndicator.MciAudio.OpenCommandFormat" NewName="KeyStatusIndicator.MciAudio.cdd3faa74178a97f2c215831f6781ab7f" />
+<Entry OldName="KeyStatusIndicator.MciAudio.RecordCommandFormat" NewName="KeyStatusIndicator.MciAudio.c3b38e5e409e5cae80d3ef4dfb54dd449" />
+<Entry OldName="KeyStatusIndicator.MciAudio.PauseCommandFormat" NewName="KeyStatusIndicator.MciAudio.c1d1bdc0aebff83af380019916665e944" />
+<Entry OldName="KeyStatusIndicator.MciAudio.StopCommandFormat" NewName="KeyStatusIndicator.MciAudio.c8f1b08a2d3e5481cb3f8e10b37746a7e" />
+<Entry OldName="KeyStatusIndicator.MciAudio.CloseCommandFormat" NewName="KeyStatusIndicator.MciAudio.c07995c9f37a21f97ed355e277b9d3577" />
+<Entry OldName="KeyStatusIndicator.MciAudio.SaveCommandFormatFormat" NewName="KeyStatusIndicator.MciAudio.caeacc233e9768b3a8dd638f3dbd530c1" />
+<Entry OldName="KeyStatusIndicator.MiscHelper.DateTimeFormat" NewName="A.cc49ee40fadef87d7517f36bbf316e010.c1deaac40539673c5c2a1199944f1cf76" />
+<Entry OldName="KeyStatusIndicator.Module.ApplicationName" NewName="A.cc5f8821f4944966f4f90d35a87dd5810.c27f64ec642cdb8344651731a70824770" />
+<Entry OldName="KeyStatusIndicator.Module.Version" NewName="A.cc5f8821f4944966f4f90d35a87dd5810.c378ac7ecef59efac34adcafe3dc17620" />
+<Entry OldName="KeyStatusIndicator.Module.Ver" NewName="A.cc5f8821f4944966f4f90d35a87dd5810.c1ab0bf294aa3131814be4d3af2a9edc7" />
+<Entry OldName="KeyStatusIndicator.Module.ShortApplicationTitle" NewName="A.cc5f8821f4944966f4f90d35a87dd5810.cac6a44fc7e27b1a5bdca2e3db2286a91" />
+<Entry OldName="KeyStatusIndicator.Module.ApplicationTitle" NewName="A.cc5f8821f4944966f4f90d35a87dd5810.cd74d692a3664e4855545156a397ff1ca" />
+<Entry OldName="KeyStatusIndicator.Module.DownloadURL" NewName="A.cc5f8821f4944966f4f90d35a87dd5810.ce48a37855bd6add6257794b40e0485c4" />
+<Entry OldName="KeyStatusIndicator.Module.HelpURL" NewName="A.cc5f8821f4944966f4f90d35a87dd5810.c5f8b7bc450739028af6a8d86b1aa41f7" />
+<Entry OldName="KeyStatusIndicator.Module.ProductWebpageURL" NewName="A.cc5f8821f4944966f4f90d35a87dd5810.c64e57ef4bf2e11e73a927a2d30da4440" />
+<Entry OldName="KeyStatusIndicator.Module.BuyURL" NewName="A.cc5f8821f4944966f4f90d35a87dd5810.c8f565e59acd1aed22aaf78f846a30c96" />
+<Entry OldName="KeyStatusIndicator.Module.VersionURL" NewName="A.cc5f8821f4944966f4f90d35a87dd5810.cdf299740cf3f4b9e02a77fa8aa2f09d4" />
+<Entry OldName="KeyStatusIndicator.Module.TipText" NewName="A.cc5f8821f4944966f4f90d35a87dd5810.c657c997d681d5407e981504ddb442da6" />
+<Entry OldName="KeyStatusIndicator.Module.HideMode" NewName="A.cc5f8821f4944966f4f90d35a87dd5810.c46a555ca19247163bce8f66c4c469e3e" />
+<Entry OldName="KeyStatusIndicator.Module.AppDataDirectory" NewName="A.cc5f8821f4944966f4f90d35a87dd5810.c0167f976956955695e28d4c4bd5752bb" />
+<Entry OldName="KeyStatusIndicator.Module.SelectedLanguage" NewName="A.cc5f8821f4944966f4f90d35a87dd5810.c8f158ddedf2074ff295901af8e9b262c" />
+<Entry OldName="KeyStatusIndicator.Module.args" NewName="A.cc5f8821f4944966f4f90d35a87dd5810.cef37025439ccfa8da5a450124258873a" />
+<Entry OldName="KeyStatusIndicator.Module._Modex64" NewName="A.cc5f8821f4944966f4f90d35a87dd5810.cdffe0cefbf093bcd4b3f5dba3409ed7e" />
+<Entry OldName="KeyStatusIndicator.NiceLine.components" NewName="KeyStatusIndicator.NiceLine.ca28178125c77c1c37bbf7aad662b35ee" />
+<Entry OldName="KeyStatusIndicator.NiceLine._Caption" NewName="KeyStatusIndicator.NiceLine.c188a6726ad585d1229f48e022c06c03f" />
+<Entry OldName="KeyStatusIndicator.NiceLine._CaptionMarginSpace" NewName="KeyStatusIndicator.NiceLine.ccb6f73926cf4bb2226a68096f13619ed" />
+<Entry OldName="KeyStatusIndicator.NiceLine._CaptionPadding" NewName="KeyStatusIndicator.NiceLine.ca9596389e9d0d119c910660dc53c7864" />
+<Entry OldName="KeyStatusIndicator.NiceLine._LineVerticalAlign" NewName="KeyStatusIndicator.NiceLine.ce44936be3ab3bbdd1af8ab9692d81082" />
+<Entry OldName="KeyStatusIndicator.NiceLine._CaptionOrizontalAlign" NewName="KeyStatusIndicator.NiceLine.c911f7c39dd3ae06cfc437e1ad5a71017" />
+<Entry OldName="KeyStatusIndicator.ResFlags.resourceMan" NewName="A.cbc2445107f3f03a1de0e9102124ea121.c571fb257eed4cd3a7bf3d55e5d1ff11b" />
+<Entry OldName="KeyStatusIndicator.ResFlags.resourceCulture" NewName="A.cbc2445107f3f03a1de0e9102124ea121.c847ed65b86407b47da3bcd1928e663df" />
+<Entry OldName="KeyStatusIndicator.ResRegister.resourceMan" NewName="A.c9a4813f414109bc08ccca5ba632711a7.c571fb257eed4cd3a7bf3d55e5d1ff11b" />
+<Entry OldName="KeyStatusIndicator.ResRegister.resourceCulture" NewName="A.c9a4813f414109bc08ccca5ba632711a7.c847ed65b86407b47da3bcd1928e663df" />
+<Entry OldName="KeyStatusIndicator.ResTranslate.resourceMan" NewName="A.ceb0678a74526a145e365e71cf16ebfe2.c571fb257eed4cd3a7bf3d55e5d1ff11b" />
+<Entry OldName="KeyStatusIndicator.ResTranslate.resourceCulture" NewName="A.ceb0678a74526a145e365e71cf16ebfe2.c847ed65b86407b47da3bcd1928e663df" />
+<Entry OldName="KeyStatusIndicator.TranslateHelper.rm" NewName="A.cd2624992d275505bd199bf6c6af9ebed.cc7b3e539009134bbdd25a27fa3666aa4" />
+<Entry OldName="KeyStatusIndicator.TranslateHelper.rm2" NewName="A.cd2624992d275505bd199bf6c6af9ebed.c8e5e36ffdf78fd9ecd55178dd5d81294" />
+<Entry OldName="KeyStatusIndicator.ucTextProgressBar.WmPaint" NewName="KeyStatusIndicator.ucTextProgressBar.cd6e9294b8e45766b8e34672bbdb27737" />
+<Entry OldName="KeyStatusIndicator.ucTextProgressBar.components" NewName="KeyStatusIndicator.ucTextProgressBar.ca28178125c77c1c37bbf7aad662b35ee" />
+<Entry OldName="KeyStatusIndicator.UpdateHelper.bwCheckVersion" NewName="KeyStatusIndicator.UpdateHelper.c1bad80744cb8a5ab6ee2763a085c082c" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.resourceMan" NewName="A.c996b3ec61f1b99244f180c8fceec9552.c571fb257eed4cd3a7bf3d55e5d1ff11b" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.resourceCulture" NewName="A.c996b3ec61f1b99244f180c8fceec9552.c847ed65b86407b47da3bcd1928e663df" />
+<Entry OldName="&lt;PrivateImplementationDetails&gt;.6792D46EC7C4B38E9D71069E70F83D582CDB6FBDCE8CF6E275CD41546855DB2E" NewName="A.c3efd26ccd1b399f95f629c41fbdf3aa0.cc914bc6ac32b84d73bf654d36e08c852" />
+<Entry OldName="KeyStatusIndicator.ContextMenuHelper..ctor()" NewName="A.c503043376774f297b1d7fea6ae53d369..ctor()" />
+<Entry OldName="KeyStatusIndicator.ContextMenuHelper..cctor()" NewName="A.c503043376774f297b1d7fea6ae53d369..cctor()" />
+<Entry OldName="KeyStatusIndicator.ContextMenuHelper.GetVolumeInformation(String PathName, StringBuilder VolumeNameBuffer, UInt32 VolumeNameSize, UInt32&amp; VolumeSerialNumber, UInt32&amp; MaximumComponentLength, UInt32&amp; FileSystemFlags, StringBuilder FileSystemNameBuffer, UInt32 FileSystemNameSize)" NewName="A.c503043376774f297b1d7fea6ae53d369.cba2624ad5f95f2d2e2607ecf30c0cb8d(String c37a5ce1647b92e8e9b748bafbb832197, StringBuilder c21b233a901e225a0e24ada2f8554f6b9, UInt32 c480c77a0146dc2063b99a283dcbca991, UInt32&amp; c625827a4ced4657f2d58e8f42196812f, UInt32&amp; c4099b5d4409bd372a1bd22f96e027972, UInt32&amp; ca8cc4c853349ca59225280cb70901ded, StringBuilder cde16870973e15496b541b81bdfe5e41a, UInt32 c9be494773a05a8261c4eae7b8ab4fcf1)" />
+<Entry OldName="KeyStatusIndicator.ContextMenuHelper.DisplayContextMenu()" NewName="A.c503043376774f297b1d7fea6ae53d369.cbf9f5e90e1e21b5f30b4bcc106ff5a8f()" />
+<Entry OldName="KeyStatusIndicator.ContextMenuHelper.HideContextMenu()" NewName="A.c503043376774f297b1d7fea6ae53d369.ce22767c7d4fba59da4585cc2f102b393()" />
+<Entry OldName="KeyStatusIndicator.ContextMenuHelper.WriteTest()" NewName="A.c503043376774f297b1d7fea6ae53d369.c53f3a0994cda08fc9d3e09503bb0584b()" />
+<Entry OldName="KeyStatusIndicator.ContextMenuHelper.ParseDate(String datestr)" NewName="A.c503043376774f297b1d7fea6ae53d369.c5328b19869a137e2fcbf1b3a4061aa0f(String cf1d5a2c1c8f66179e7625172692d3c2e)" />
+<Entry OldName="KeyStatusIndicator.CustomForm.CustomForm_Activated(Object sender, EventArgs e)" NewName="KeyStatusIndicator.CustomForm.c2627382fb7984f0cffcaa3bc6570f7bc(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.CustomForm.ResizeChildControls(Control co)" NewName="KeyStatusIndicator.CustomForm.c48fd76c450d1d0bba730894b384efa32(Control c061f0ac5a78ac829bdd9ae75a176ed58)" />
+<Entry OldName="KeyStatusIndicator.CustomForm.InitializeComponent()" NewName="KeyStatusIndicator.CustomForm.cafd2f501cf050ca237a3564dc6573d20()" />
+<Entry OldName="KeyStatusIndicator.ExceptionHandlersHelper..ctor()" NewName="A.ca73a19dd809ab28e67ce7281ba031e81..ctor()" />
+<Entry OldName="KeyStatusIndicator.ExceptionHandlersHelper.AddUnhandledExceptionHandlers()" NewName="A.ca73a19dd809ab28e67ce7281ba031e81.ca2775a45ae6646bebe85a8e3d382b2b1()" />
+<Entry OldName="KeyStatusIndicator.ExceptionHandlersHelper.myExceptionHandler(Object sender, UnhandledExceptionEventArgs e)" NewName="A.ca73a19dd809ab28e67ce7281ba031e81.cd6ae84132879be96c84fd33b5b0ff16f(Object c4aef299ff30766fb518ee6eebb0eab50, UnhandledExceptionEventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.ExceptionHandlersHelper.myThreadExceptionHandler(Object sender, ThreadExceptionEventArgs e)" NewName="A.ca73a19dd809ab28e67ce7281ba031e81.c99f99d0bdaa5fddd8749049090f3d4ce(Object c4aef299ff30766fb518ee6eebb0eab50, ThreadExceptionEventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmAbout.frmAbout_Load(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmAbout.c7de0d88a1b6510583a59207ef50a4000(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmAbout.btnClose_Click(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmAbout.c142839456df5ca9ef293bb1c59addcec(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmAbout.linkLabel1_LinkClicked(Object sender, LinkLabelLinkClickedEventArgs e)" NewName="KeyStatusIndicator.frmAbout.cfa6df9060ea64c5ab6cf37f33e31543f(Object c4aef299ff30766fb518ee6eebb0eab50, LinkLabelLinkClickedEventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmAbout.linkLabel2_LinkClicked(Object sender, LinkLabelLinkClickedEventArgs e)" NewName="KeyStatusIndicator.frmAbout.c03b36c53b72be5996b22dda5c4a52b42(Object c4aef299ff30766fb518ee6eebb0eab50, LinkLabelLinkClickedEventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmAbout.btnBuy_Click(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmAbout.cf00dcf5e763d8cf1121b97522b6016d6(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmAbout.btnRegister_Click(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmAbout.ce85afbce2e5a7c88dc8bcf09cd9023a9(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmAbout.InitializeComponent()" NewName="KeyStatusIndicator.frmAbout.cafd2f501cf050ca237a3564dc6573d20()" />
+<Entry OldName="KeyStatusIndicator.frmAdeia.btnOK_Click(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmAdeia.caf4a3eda2cee37efdcea3d0301a6035b(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmAdeia.btnExit_Click(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmAdeia.c7ad0bd100206ebb74b2152783819e419(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmAdeia.frmAdeia_Load(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmAdeia.c0f9eedb7e6781cbe0b70c7374dde229c(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmAdeia.InitializeComponent()" NewName="KeyStatusIndicator.frmAdeia.cafd2f501cf050ca237a3564dc6573d20()" />
+<Entry OldName="KeyStatusIndicator.frmBalloonTip.timBalloon_Tick(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmBalloonTip.cfbbdec54414bca637dcc8d4ba48faaf0(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmBalloonTip.DrawGradient()" NewName="KeyStatusIndicator.frmBalloonTip.c83c3e918168daab704e48b80b8eb4f3a()" />
+<Entry OldName="KeyStatusIndicator.frmBalloonTip.InitializeComponent()" NewName="KeyStatusIndicator.frmBalloonTip.cafd2f501cf050ca237a3564dc6573d20()" />
+<Entry OldName="KeyStatusIndicator.frmDownloadUpdate.frmDownloadUpdate_Load(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmDownloadUpdate.c3e996e1dec2b924d396a7908c64139a6(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmDownloadUpdate.client_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)" NewName="KeyStatusIndicator.frmDownloadUpdate.c55f47fff82b05ff39c6f362ad5f1b85c(Object c4aef299ff30766fb518ee6eebb0eab50, AsyncCompletedEventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmDownloadUpdate.client_DownloadProgressChanged(Object sender, DownloadProgressChangedEventArgs e)" NewName="KeyStatusIndicator.frmDownloadUpdate.c2b0b64be3e1e1615921431bbd7ffd182(Object c4aef299ff30766fb518ee6eebb0eab50, DownloadProgressChangedEventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmDownloadUpdate.btnCancelDownload_Click(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmDownloadUpdate.c7dc8485a9793962bf87192e8df8af9f8(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmDownloadUpdate.InitializeComponent()" NewName="KeyStatusIndicator.frmDownloadUpdate.cafd2f501cf050ca237a3564dc6573d20()" />
+<Entry OldName="KeyStatusIndicator.frmError.btnClose_Click(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmError.c142839456df5ca9ef293bb1c59addcec(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmError.InitializeComponent()" NewName="KeyStatusIndicator.frmError.cafd2f501cf050ca237a3564dc6573d20()" />
+<Entry OldName="KeyStatusIndicator.frmKeyPressed.frmKeyPressed_FormClosing(Object sender, FormClosingEventArgs e)" NewName="KeyStatusIndicator.frmKeyPressed.c61e2c26cffc92dc955d255173e4aa549(Object c4aef299ff30766fb518ee6eebb0eab50, FormClosingEventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmKeyPressed.frmKeyPressed_Activated(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmKeyPressed.c5915de4599e69a29be9f521cf4e0469a(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmKeyPressed.InitializeComponent()" NewName="KeyStatusIndicator.frmKeyPressed.cafd2f501cf050ca237a3564dc6573d20()" />
+<Entry OldName="KeyStatusIndicator.frmLanguage.btnOK_Click(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmLanguage.caf4a3eda2cee37efdcea3d0301a6035b(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmLanguage.frmLanguage_Load(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmLanguage.ccb18dd33ff4c84280ed9b0b0d061a94e(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmLanguage.InitializeComponent()" NewName="KeyStatusIndicator.frmLanguage.cafd2f501cf050ca237a3564dc6573d20()" />
+<Entry OldName="KeyStatusIndicator.frmMain.timer1_Tick(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmMain.c46c4e5c054845323dcdaf325b8c6cff9(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmMain.timer2_Tick(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmMain.cc54388517e523906a9f29e26edbf04d3(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmMain.timer3_Tick(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmMain.c5c23b0d17f2e9c59f86dc5ac1bfeac27(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmMain.LoadSettings()" NewName="KeyStatusIndicator.frmMain.cd42f4ba7847bc084c0d79ae2de43f063()" />
+<Entry OldName="KeyStatusIndicator.frmMain.SetupOnLoad()" NewName="KeyStatusIndicator.frmMain.cb92f282485a78f5eae705b33c1777713()" />
+<Entry OldName="KeyStatusIndicator.frmMain.AdjustSizeLocation()" NewName="KeyStatusIndicator.frmMain.cc0dddaa540aa127cfc75091f0ba351b6()" />
+<Entry OldName="KeyStatusIndicator.frmMain.SaveSizeLocation()" NewName="KeyStatusIndicator.frmMain.c14a0047d9f7c4938d6883ef5bda68f2c()" />
+<Entry OldName="KeyStatusIndicator.frmMain.AddLanguageMenuItems()" NewName="KeyStatusIndicator.frmMain.c2a437ad5772a944020925793118b0265()" />
+<Entry OldName="KeyStatusIndicator.frmMain.tiLang_Click(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmMain.c095b841364da3adb57748156c94f61aa(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmMain.ChangeLanguage(String language_code)" NewName="KeyStatusIndicator.frmMain.c24d65f201a0409eb3059fad3c06e2d0c(String c5e59a11693f5905a76fb07843db11b33)" />
+<Entry OldName="KeyStatusIndicator.frmMain.buyApplicationToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmMain.c21a7b75cce14438ba91f0ba4820d6e9d(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmMain.enterLicenseKeyToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmMain.cf9f18809177c7626649c988f9eaaef49(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmMain.GetWindowsSounds()" NewName="KeyStatusIndicator.frmMain.c34b61174d3d4c66ed7e297defba48f8e()" />
+<Entry OldName="KeyStatusIndicator.frmMain.frmMain_Load(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmMain.c6546b1862ecffe234f3421e953939767(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmMain.helpGuideToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmMain.c0c196fc538c11d276f299ff7a6b32f0b(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmMain.pleaseDonateToolStripMenuItem1_Click(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmMain.cf29f02eb684290f3f5f47ee593ee1957(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmMain.dotsSoftwarePRODUCTCATALOGToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmMain.c28efc491fcd473ff97ac5ae8ebb76a6b(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmMain.aboutToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmMain.c0fdb186fe812d56d1bbdb25f8b8d2220(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmMain.tiHelpFeedback_Click(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmMain.cdf079f4e93f2f6be6ccd50042ca3b1d3(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmMain.followUsOnTwitterToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmMain.c0f5228ec865d6c2f89760ec56776b6e9(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmMain.visit4dotsSoftwareWebsiteToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmMain.cc19b9dedf94d958e62d991ec86bf5df5(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmMain.checkForNewVersionToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmMain.cdc3f7a272048e5eb8e17c6a4a0d2937e(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmMain.exitToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmMain.c1e0f6097bf41b977bf1798d3e779ea33(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmMain.frmMain_FormClosing(Object sender, FormClosingEventArgs e)" NewName="KeyStatusIndicator.frmMain.cad3a36f10ae636dc2d384900c5eba643(Object c4aef299ff30766fb518ee6eebb0eab50, FormClosingEventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmMain.SaveSettings()" NewName="KeyStatusIndicator.frmMain.c6993e012ef5e67715f6d1ec53590c30a()" />
+<Entry OldName="KeyStatusIndicator.frmMain.btnOnColor_Click(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmMain.c5d921fa9a8873a67379d1648afb9bbb7(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmMain.btnOffColor_Click(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmMain.c275b0d38abdcd81453fb4d9f3cda575a(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmMain.InitializeIcons()" NewName="KeyStatusIndicator.frmMain.c905ab146066bcccf2b458ab8cc91dcdf()" />
+<Entry OldName="KeyStatusIndicator.frmMain.ColorToString(Color col)" NewName="KeyStatusIndicator.frmMain.c04bf9b9252eabaf790ecaeb865b4a05b(Color cc352d7a4af18c7db2c256ce7e83b2bd8)" />
+<Entry OldName="KeyStatusIndicator.frmMain.StringToColor(String color)" NewName="KeyStatusIndicator.frmMain.ceb212968e323fce9b31f9680c5f073c2(String ce39ad010fb67db645da46ccd737ebbe6)" />
+<Entry OldName="KeyStatusIndicator.frmMain.btnExit_Click(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmMain.c7ad0bd100206ebb74b2152783819e419(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmMain.ShowIcons()" NewName="KeyStatusIndicator.frmMain.cfc29cbef6719ce57c44c68dc17c64b9c()" />
+<Entry OldName="KeyStatusIndicator.frmMain.CreateIcons()" NewName="KeyStatusIndicator.frmMain.cd9f853cbcf5d9fc69e0dc38d0d46a7ff()" />
+<Entry OldName="KeyStatusIndicator.frmMain.showToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmMain.c97db6b97563394807c0cb953b924ec37(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmMain.btnOK_Click(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmMain.caf4a3eda2cee37efdcea3d0301a6035b(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmMain.timKey_Tick(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmMain.cea3017043f5521bccc716b1bb5462281(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmMain.chkRunCurrentUser_CheckedChanged(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmMain.c9842f80cf63ac757fa6f886b08b2e4c0(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmMain.chkRunLocalMachine_CheckedChanged(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmMain.c107ebf0ee975e4a17c43293cce45eb8f(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmMain.showApplicationTrayIconToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmMain.cba7e2251800622828d2f8daef09687d7(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmMain.minimizeToSystemTrayToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmMain.c1e4fbb2dd5530451a44181799fa778aa(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmMain.frmMain_Resize(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmMain.cb959dbe63dff4867c92fb8be744a123b(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmMain.btnBrowseOn_Click(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmMain.c8c175ced968d5d3c332a4f3784c459aa(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmMain.saveSettingsFileToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmMain.cdf09f6a69181b00cc29f81518d96067a(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmMain.openSettingsFileToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmMain.c335cbc70871df1ec60dbee4ef1f56c81(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmMain.StringToBool(String str)" NewName="KeyStatusIndicator.frmMain.c451077f51e56f18266476c8711e9666f(String c6dedad108cae751e981e91f9c979bd82)" />
+<Entry OldName="KeyStatusIndicator.frmMain.notMain_Click(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmMain.c319bc1ac31713ce33af334ad59bc5f56(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmMain.InitializeComponent()" NewName="KeyStatusIndicator.frmMain.cafd2f501cf050ca237a3564dc6573d20()" />
+<Entry OldName="KeyStatusIndicator.frmPurchase.frmPurchase_Load(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmPurchase.c81270bdea9ab25b280351dee2bbb9c10(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmPurchase.btnRegister_Click(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmPurchase.ce85afbce2e5a7c88dc8bcf09cd9023a9(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmPurchase.timContinue_Tick(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmPurchase.cf8c693db5497c8e861e7f1049669e9d1(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmPurchase.btnClose_Click(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmPurchase.c142839456df5ca9ef293bb1c59addcec(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmPurchase.btnBuy_Click(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmPurchase.cf00dcf5e763d8cf1121b97522b6016d6(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmPurchase.btnRegister_Click_1(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmPurchase.c43dd049bd60ad53f9174ebea41d52ee5(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmPurchase.btnExit_Click(Object sender, EventArgs e)" NewName="KeyStatusIndicator.frmPurchase.c7ad0bd100206ebb74b2152783819e419(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.frmPurchase.InitializeComponent()" NewName="KeyStatusIndicator.frmPurchase.cafd2f501cf050ca237a3564dc6573d20()" />
+<Entry OldName="KeyStatusIndicator.FuzzyMatch..ctor()" NewName="A.c4bca70130a253b65aa1c876eb98ca5c7..ctor()" />
+<Entry OldName="KeyStatusIndicator.FuzzyMatch.ExtractPreviousFuzzyMatch(String helpcolumn)" NewName="A.c4bca70130a253b65aa1c876eb98ca5c7.c01f74d8cc27fdaa7b9bff633ca7638c0(String c3ae1c86f07aff3ac86f5345e107f4cdb)" />
+<Entry OldName="KeyStatusIndicator.FuzzyMatch.SetFuzzyHelpColumnText(Int32 fuzzypercent, String helpcolumn)" NewName="A.c4bca70130a253b65aa1c876eb98ca5c7.c24c943f32c2120d4ee498b9aceaa7ce6(Int32 c8cdc3846682496d6c04ab82624dc8cf5, String c3ae1c86f07aff3ac86f5345e107f4cdb)" />
+<Entry OldName="KeyStatusIndicator.FuzzyMatch.IsFuzzyMatchForReport(String sNew, String sOld, Int32 percent_fuzzy_from, Int32 percent_fuzzy_to)" NewName="A.c4bca70130a253b65aa1c876eb98ca5c7.c78de19c66c571fcdbd0fa937a56c7778(String c012c7c74bb01788de45ccca6602068ec, String ca2b7cd255c624c5b97ab226469f04aca, Int32 ce3b31b2c4be4caff54085ba25574b7a0, Int32 c675bda134258713aae3509d0057427b8)" />
+<Entry OldName="KeyStatusIndicator.FuzzyMatch.IsFuzzyMatch(String sNew, String sOld, String helpcolumn)" NewName="A.c4bca70130a253b65aa1c876eb98ca5c7.ccbb1d9c04da8f10f34db0eeccaf3898f(String c012c7c74bb01788de45ccca6602068ec, String ca2b7cd255c624c5b97ab226469f04aca, String c3ae1c86f07aff3ac86f5345e107f4cdb)" />
+<Entry OldName="KeyStatusIndicator.Levenshtein.Minimum(Int32 a, Int32 b, Int32 c)" NewName="KeyStatusIndicator.Levenshtein.c3b1ecce0c72107ba6522aa8b79114461(Int32 c0880d04b6ff525eef5107de8803348be, Int32 c91c709c7045e09b612a8326372b8552b, Int32 cba72fa8eb47b74859f8f701447bdefe0)" />
+<Entry OldName="KeyStatusIndicator.ImageComboBox..ctor()" NewName="A.cd9b5e4984fbe045dad48e9dde7d8ac57..ctor()" />
+<Entry OldName="KeyStatusIndicator.ImageComboBox.get_ImageList()" NewName="A.cd9b5e4984fbe045dad48e9dde7d8ac57.get_cd6f52d182c868b276a0fe82afbae8b75()" />
+<Entry OldName="KeyStatusIndicator.ImageComboBox.set_ImageList(ImageList value)" NewName="A.cd9b5e4984fbe045dad48e9dde7d8ac57.set_cd6f52d182c868b276a0fe82afbae8b75(ImageList cbf47ae9cc6f745b6c6669b1c4f888c2f)" />
+<Entry OldName="KeyStatusIndicator.ImageComboBox.OnDrawItem(DrawItemEventArgs ea)" NewName="A.cd9b5e4984fbe045dad48e9dde7d8ac57.OnDrawItem(DrawItemEventArgs ea)" />
+<Entry OldName="KeyStatusIndicator.ComboBoxExItem..ctor()" NewName="A.cbc9f121cc94c1681457b4c804eaca191..ctor()" />
+<Entry OldName="KeyStatusIndicator.ComboBoxExItem..ctor(String text)" NewName="A.cbc9f121cc94c1681457b4c804eaca191..ctor(String ce7e9b0bbdb44c04805c86035f15bfa8f)" />
+<Entry OldName="KeyStatusIndicator.ComboBoxExItem..ctor(String text, Int32 imageIndex)" NewName="A.cbc9f121cc94c1681457b4c804eaca191..ctor(String ce7e9b0bbdb44c04805c86035f15bfa8f, Int32 c7b0cb6815ac4fb693554c4dbe5e27afc)" />
+<Entry OldName="KeyStatusIndicator.ComboBoxExItem.get_Text()" NewName="A.cbc9f121cc94c1681457b4c804eaca191.get_c4599162361f52514799b747dd1ba1e86()" />
+<Entry OldName="KeyStatusIndicator.ComboBoxExItem.set_Text(String value)" NewName="A.cbc9f121cc94c1681457b4c804eaca191.set_c4599162361f52514799b747dd1ba1e86(String cbf47ae9cc6f745b6c6669b1c4f888c2f)" />
+<Entry OldName="KeyStatusIndicator.ComboBoxExItem.get_ImageIndex()" NewName="A.cbc9f121cc94c1681457b4c804eaca191.get_c2f608cdd1743d1a1594d46767b1148dc()" />
+<Entry OldName="KeyStatusIndicator.ComboBoxExItem.set_ImageIndex(Int32 value)" NewName="A.cbc9f121cc94c1681457b4c804eaca191.set_c2f608cdd1743d1a1594d46767b1148dc(Int32 cbf47ae9cc6f745b6c6669b1c4f888c2f)" />
+<Entry OldName="KeyStatusIndicator.ComboBoxExItem.ToString()" NewName="A.cbc9f121cc94c1681457b4c804eaca191.ToString()" />
+<Entry OldName="KeyStatusIndicator.ImagesViewHelper..ctor()" NewName="A.cb2dda7adc5f3cb853397ac284bcee3d2..ctor()" />
+<Entry OldName="KeyStatusIndicator.ImagesViewHelper..cctor()" NewName="A.cb2dda7adc5f3cb853397ac284bcee3d2..cctor()" />
+<Entry OldName="KeyStatusIndicator.ImagesViewHelper.GetVolumeInformation(String PathName, StringBuilder VolumeNameBuffer, UInt32 VolumeNameSize, UInt32&amp; VolumeSerialNumber, UInt32&amp; MaximumComponentLength, UInt32&amp; FileSystemFlags, StringBuilder FileSystemNameBuffer, UInt32 FileSystemNameSize)" NewName="A.cb2dda7adc5f3cb853397ac284bcee3d2.cba2624ad5f95f2d2e2607ecf30c0cb8d(String c37a5ce1647b92e8e9b748bafbb832197, StringBuilder c21b233a901e225a0e24ada2f8554f6b9, UInt32 c480c77a0146dc2063b99a283dcbca991, UInt32&amp; c625827a4ced4657f2d58e8f42196812f, UInt32&amp; c4099b5d4409bd372a1bd22f96e027972, UInt32&amp; ca8cc4c853349ca59225280cb70901ded, StringBuilder cde16870973e15496b541b81bdfe5e41a, UInt32 c9be494773a05a8261c4eae7b8ab4fcf1)" />
+<Entry OldName="KeyStatusIndicator.ImagesViewHelper.GeneratePreviewItems()" NewName="A.cb2dda7adc5f3cb853397ac284bcee3d2.cfa5137c27df4c36d8654666f404ec212()" />
+<Entry OldName="KeyStatusIndicator.ImagesViewHelper.ParseDate(String datestr)" NewName="A.cb2dda7adc5f3cb853397ac284bcee3d2.c5328b19869a137e2fcbf1b3a4061aa0f(String cf1d5a2c1c8f66179e7625172692d3c2e)" />
+<Entry OldName="KeyStatusIndicator.InputModeHelper..ctor()" NewName="A.c6188bed2d0cb649dc07fd358c6aa6360..ctor()" />
+<Entry OldName="KeyStatusIndicator.InputModeHelper..cctor()" NewName="A.c6188bed2d0cb649dc07fd358c6aa6360..cctor()" />
+<Entry OldName="KeyStatusIndicator.InputModeHelper.GetVolumeInformation(String PathName, StringBuilder VolumeNameBuffer, UInt32 VolumeNameSize, UInt32&amp; VolumeSerialNumber, UInt32&amp; MaximumComponentLength, UInt32&amp; FileSystemFlags, StringBuilder FileSystemNameBuffer, UInt32 FileSystemNameSize)" NewName="A.c6188bed2d0cb649dc07fd358c6aa6360.cba2624ad5f95f2d2e2607ecf30c0cb8d(String c37a5ce1647b92e8e9b748bafbb832197, StringBuilder c21b233a901e225a0e24ada2f8554f6b9, UInt32 c480c77a0146dc2063b99a283dcbca991, UInt32&amp; c625827a4ced4657f2d58e8f42196812f, UInt32&amp; c4099b5d4409bd372a1bd22f96e027972, UInt32&amp; ca8cc4c853349ca59225280cb70901ded, StringBuilder cde16870973e15496b541b81bdfe5e41a, UInt32 c9be494773a05a8261c4eae7b8ab4fcf1)" />
+<Entry OldName="KeyStatusIndicator.InputModeHelper.AnalyzeSearch()" NewName="A.c6188bed2d0cb649dc07fd358c6aa6360.c64a405476c5ca0febda216de6d5a27ec()" />
+<Entry OldName="KeyStatusIndicator.InputModeHelper.Bin2Hex(Byte[] bin)" NewName="A.c6188bed2d0cb649dc07fd358c6aa6360.cc8346858983374cf8bf66e1e2bb1041d(Byte[] c44b31e1aa14be90a44658e1d8a6fe5e7)" />
+<Entry OldName="KeyStatusIndicator.MciAudio.mciSendString(String strCommand, StringBuilder strReturn, Int32 iReturnLength, IntPtr oCallback)" NewName="KeyStatusIndicator.MciAudio.c776d8c37059d2d56049fa6c2b74f545b(String c89de873336b11369e87e94a7ae0039ed, StringBuilder c5d6fa78008e41511cd697b424c8ab1ea, Int32 c02fcf739b33f4e99eac40c4375002b29, IntPtr c08925ea94e6ef3e9351c55a50902aec9)" />
+<Entry OldName="KeyStatusIndicator.MciAudio.Open()" NewName="KeyStatusIndicator.MciAudio.c504649b1777801f786a2c0fe788ca9eb()" />
+<Entry OldName="KeyStatusIndicator.MciAudio.Record()" NewName="KeyStatusIndicator.MciAudio.c295932866392ba6846282fc176b649b7()" />
+<Entry OldName="KeyStatusIndicator.MciAudio.Pause()" NewName="KeyStatusIndicator.MciAudio.c2034e7d3f8ec27803a570f8238539f3f()" />
+<Entry OldName="KeyStatusIndicator.MciAudio.Play()" NewName="KeyStatusIndicator.MciAudio.c6b3d4b140c59a3c1b170df03ece23ddd()" />
+<Entry OldName="KeyStatusIndicator.MciAudio.OpenPlay()" NewName="KeyStatusIndicator.MciAudio.c0974a4e795319dcf17443bf249863e69()" />
+<Entry OldName="KeyStatusIndicator.MciAudio.Stop()" NewName="KeyStatusIndicator.MciAudio.cf2ed347a3cd50eacb40aa55efc5a3804()" />
+<Entry OldName="KeyStatusIndicator.MciAudio.StopPlay()" NewName="KeyStatusIndicator.MciAudio.c894b3c02e8db4f610e8cab8b490b6d55()" />
+<Entry OldName="KeyStatusIndicator.MciAudio.Close()" NewName="KeyStatusIndicator.MciAudio.cd7bbaf6f069408477f5a0d8875fe99cd()" />
+<Entry OldName="KeyStatusIndicator.MciAudio.ClosePlay()" NewName="KeyStatusIndicator.MciAudio.c9b6d70f8954b71ede29bd8bcb8d59738()" />
+<Entry OldName="KeyStatusIndicator.MciAudio.SaveRecording(String fileName)" NewName="KeyStatusIndicator.MciAudio.c3c4157ca0e6ced914c33ef8e60cc2cf6(String cfd2bef924e14033084a3789d53e80d1c)" />
+<Entry OldName="KeyStatusIndicator.MciAudio.SetVolume(String volume)" NewName="KeyStatusIndicator.MciAudio.c78e263d505b322d66ed5d23c7e98ead4(String c2182349100fa4c3350dccaaf9ba63573)" />
+<Entry OldName="KeyStatusIndicator.MciAudio.IsPlaying()" NewName="KeyStatusIndicator.MciAudio.ce9ef09b8e090c0af8e088261a99747d9()" />
+<Entry OldName="KeyStatusIndicator.MessageHelper.RegisterWindowMessage(String lpString)" NewName="KeyStatusIndicator.MessageHelper.ce329ffd7d7cd2757c01c09e713f4722b(String cbe6b1394bb2307e2cbf115501281da85)" />
+<Entry OldName="KeyStatusIndicator.MiscHelper..ctor()" NewName="A.cc49ee40fadef87d7517f36bbf316e010..ctor()" />
+<Entry OldName="KeyStatusIndicator.MiscHelper..cctor()" NewName="A.cc49ee40fadef87d7517f36bbf316e010..cctor()" />
+<Entry OldName="KeyStatusIndicator.MiscHelper.CurrentDomain_ProcessExit(Object sender, EventArgs e)" NewName="A.cc49ee40fadef87d7517f36bbf316e010.ca23030850a946b0ed793bfba05e6f247(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.MiscHelper.ParseDate(String datestr)" NewName="A.cc49ee40fadef87d7517f36bbf316e010.c5328b19869a137e2fcbf1b3a4061aa0f(String cf1d5a2c1c8f66179e7625172692d3c2e)" />
+<Entry OldName="KeyStatusIndicator.Module..ctor()" NewName="A.cc5f8821f4944966f4f90d35a87dd5810..ctor()" />
+<Entry OldName="KeyStatusIndicator.Module..cctor()" NewName="A.cc5f8821f4944966f4f90d35a87dd5810..cctor()" />
+<Entry OldName="KeyStatusIndicator.Module.get_TempFolder()" NewName="A.cc5f8821f4944966f4f90d35a87dd5810.get_ceebc1d8fe7e031b203168a800e5283e3()" />
+<Entry OldName="KeyStatusIndicator.Module.SendMessage(IntPtr hWnd, Int32 wMsg, Int32 wParam, Int32 lParam)" NewName="A.cc5f8821f4944966f4f90d35a87dd5810.cd0a5eb981d4b04c780674e7880233d40(IntPtr c622c4b4f8989bcea97493e068f37a78d, Int32 c1239d7669e57adcd40011a6464e282a5, Int32 cdc3b8a01103c51a1cfbdbba8eb252d8e, Int32 cd08d29682769a910379c5e89d185e25f)" />
+<Entry OldName="KeyStatusIndicator.Module.LockWindowUpdate(IntPtr hWndLock)" NewName="A.cc5f8821f4944966f4f90d35a87dd5810.cebbb8750aebd113bc229ecdd118bcfec(IntPtr cd24423924fbb5530faf0cf9c4f0e8cb3)" />
+<Entry OldName="KeyStatusIndicator.Module.WaitNMSeconds(Int32 mseconds)" NewName="A.cc5f8821f4944966f4f90d35a87dd5810.cb89da2ddfa05b3c67997f3d497963e9a(Int32 c612487fddd068877293a70bfed2e6bc5)" />
+<Entry OldName="KeyStatusIndicator.Module.IsLegalFilename(String name)" NewName="A.cc5f8821f4944966f4f90d35a87dd5810.ce1c0bd6783f92f4d929575b2040194c8(String c8d40489cd853d9237d2f030d96fe4efd)" />
+<Entry OldName="KeyStatusIndicator.Module.GetRelativePath(String mainDirPath, String absoluteFilePath)" NewName="A.cc5f8821f4944966f4f90d35a87dd5810.c739de2c4c9a37f36537cb722b6236cc2(String ce85cc6d5225e4ee4568385999ef8d177, String c2fc29c279646e5321019a24f121513d8)" />
+<Entry OldName="KeyStatusIndicator.Module.RunAdminAction(String args)" NewName="A.cc5f8821f4944966f4f90d35a87dd5810.cf3fc438d4f6917866690e546bd43c6c9(String cef37025439ccfa8da5a450124258873a)" />
+<Entry OldName="KeyStatusIndicator.Module.ShowMessage(String msg)" NewName="A.cc5f8821f4944966f4f90d35a87dd5810.cae51ecbefb03f4b4d1c5ee1b9dcbe01d(String cb217e9b97b3d1ecc26ba5fc7213e1f4e)" />
+<Entry OldName="KeyStatusIndicator.Module.ShowQuestionDialog(String msg, String caption)" NewName="A.cc5f8821f4944966f4f90d35a87dd5810.c669943b129b0ce10bd4042650ddb216c(String cb217e9b97b3d1ecc26ba5fc7213e1f4e, String c53374c9fbb58e9a57610114f449c0a6d)" />
+<Entry OldName="KeyStatusIndicator.Module.ShowError(Exception ex)" NewName="A.cc5f8821f4944966f4f90d35a87dd5810.cafe24695cfed1e8d9bc3139357774c2f(Exception c5f47471dcde02d9e390755087fe2608c)" />
+<Entry OldName="KeyStatusIndicator.Module.ShowError(String msg)" NewName="A.cc5f8821f4944966f4f90d35a87dd5810.cafe24695cfed1e8d9bc3139357774c2f(String cb217e9b97b3d1ecc26ba5fc7213e1f4e)" />
+<Entry OldName="KeyStatusIndicator.Module.ShowError(String msg, Exception ex)" NewName="A.cc5f8821f4944966f4f90d35a87dd5810.cafe24695cfed1e8d9bc3139357774c2f(String cb217e9b97b3d1ecc26ba5fc7213e1f4e, Exception c5f47471dcde02d9e390755087fe2608c)" />
+<Entry OldName="KeyStatusIndicator.Module.ShowError(String msg, String exstr)" NewName="A.cc5f8821f4944966f4f90d35a87dd5810.cafe24695cfed1e8d9bc3139357774c2f(String cb217e9b97b3d1ecc26ba5fc7213e1f4e, String c9c317e024ab667b513f85de9e3ea4154)" />
+<Entry OldName="KeyStatusIndicator.Module.CurrentDomain_ProcessExit(Object sender, EventArgs e)" NewName="A.cc5f8821f4944966f4f90d35a87dd5810.ca23030850a946b0ed793bfba05e6f247(Object c4aef299ff30766fb518ee6eebb0eab50, EventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.Module.ShowQuestionDialogYesFocus(String msg, String caption)" NewName="A.cc5f8821f4944966f4f90d35a87dd5810.c2d56cc54255015fee5274727689c5143(String cb217e9b97b3d1ecc26ba5fc7213e1f4e, String c53374c9fbb58e9a57610114f449c0a6d)" />
+<Entry OldName="KeyStatusIndicator.Module.get_Modex64()" NewName="A.cc5f8821f4944966f4f90d35a87dd5810.get_c7bde9d20686805c1c48e73886ffa05d1()" />
+<Entry OldName="KeyStatusIndicator.Module.DownloadPage(String uri)" NewName="A.cc5f8821f4944966f4f90d35a87dd5810.cf3ef6d4715ad57f90064bf3dc65919ee(String c8877f31d5695c35328668ff424fd6127)" />
+<Entry OldName="KeyStatusIndicator.Module.get_IsWindows64Bit()" NewName="A.cc5f8821f4944966f4f90d35a87dd5810.get_c00e8dd5628d78e9614dd43c2afe6ea52()" />
+<Entry OldName="KeyStatusIndicator.Module.DeleteApplicationSettingsFile()" NewName="A.cc5f8821f4944966f4f90d35a87dd5810.cdfc5dd7a6e49ab074090bf53a898f6c9()" />
+<Entry OldName="KeyStatusIndicator.NiceLine.InitializeComponent()" NewName="KeyStatusIndicator.NiceLine.cafd2f501cf050ca237a3564dc6573d20()" />
+<Entry OldName="KeyStatusIndicator.Program.Main(String[] args)" NewName="A.cc793c98b720dd2fbc5c191273c50e6a1.c043b13bdec6ed9b90918f280c72de750(String[] cef37025439ccfa8da5a450124258873a)" />
+<Entry OldName="KeyStatusIndicator.Program.ActivateIfApplicationIsRunning(String applicationName)" NewName="A.cc793c98b720dd2fbc5c191273c50e6a1.cc4614aa3e3626c08e09b329e0670461d(String c2ec6d9de7c1c8bb6cff2eb5fc0a1d829)" />
+<Entry OldName="KeyStatusIndicator.ResFlags..ctor()" NewName="A.cbc2445107f3f03a1de0e9102124ea121..ctor()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_ResourceManager()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_ResourceManager()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_Culture()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_Culture()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.set_Culture(CultureInfo value)" NewName="A.cbc2445107f3f03a1de0e9102124ea121.set_Culture(CultureInfo value)" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_albania()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_albania()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_belarus()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_belarus()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_bulgaria()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_bulgaria()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_china()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_china()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_croatia()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_croatia()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_czech_republic()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_czech_republic()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_denmark()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_denmark()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_estonia()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_estonia()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_finland()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_finland()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_france()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_france()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_georgia()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_georgia()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_germany()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_germany()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_great_britain()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_great_britain()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_greece()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_greece()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_hungary()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_hungary()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_iceland()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_iceland()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_india()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_india()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_indonesia()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_indonesia()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_iran()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_iran()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_ireland()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_ireland()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_israel()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_israel()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_italy()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_italy()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_japan()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_japan()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_kenya()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_kenya()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_latvia()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_latvia()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_lithuania()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_lithuania()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_netherlands()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_netherlands()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_norway()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_norway()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_pakistan()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_pakistan()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_philippines()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_philippines()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_poland()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_poland()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_portugal()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_portugal()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_romania()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_romania()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_russia()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_russia()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_saudi_arabia()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_saudi_arabia()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_serbia_montenegro()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_serbia_montenegro()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_slovakia()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_slovakia()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_slovenia()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_slovenia()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_south_africa()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_south_africa()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_south_korea()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_south_korea()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_spain()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_spain()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_sweden()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_sweden()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_taiwan()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_taiwan()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_thailand()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_thailand()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_turkey()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_turkey()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_ukraine()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_ukraine()" />
+<Entry OldName="KeyStatusIndicator.ResFlags.get_flag_vietnam()" NewName="A.cbc2445107f3f03a1de0e9102124ea121.get_flag_vietnam()" />
+<Entry OldName="KeyStatusIndicator.ResRegister..ctor()" NewName="A.c9a4813f414109bc08ccca5ba632711a7..ctor()" />
+<Entry OldName="KeyStatusIndicator.ResRegister.get_ResourceManager()" NewName="A.c9a4813f414109bc08ccca5ba632711a7.get_ResourceManager()" />
+<Entry OldName="KeyStatusIndicator.ResRegister.get_Culture()" NewName="A.c9a4813f414109bc08ccca5ba632711a7.get_Culture()" />
+<Entry OldName="KeyStatusIndicator.ResRegister.set_Culture(CultureInfo value)" NewName="A.c9a4813f414109bc08ccca5ba632711a7.set_Culture(CultureInfo value)" />
+<Entry OldName="KeyStatusIndicator.ResRegister.get_Add_new_search_item_to_project()" NewName="A.c9a4813f414109bc08ccca5ba632711a7.get_Add_new_search_item_to_project()" />
+<Entry OldName="KeyStatusIndicator.ResRegister.get_Continue_activated_search_()" NewName="A.c9a4813f414109bc08ccca5ba632711a7.get_Continue_activated_search_()" />
+<Entry OldName="KeyStatusIndicator.ResRegister.get_Direct_search_started()" NewName="A.c9a4813f414109bc08ccca5ba632711a7.get_Direct_search_started()" />
+<Entry OldName="KeyStatusIndicator.ResRegister.get_Edit_4dots_Project()" NewName="A.c9a4813f414109bc08ccca5ba632711a7.get_Edit_4dots_Project()" />
+<Entry OldName="KeyStatusIndicator.ResRegister.get_Erroneous_search_2()" NewName="A.c9a4813f414109bc08ccca5ba632711a7.get_Erroneous_search_2()" />
+<Entry OldName="KeyStatusIndicator.ResRegister.get_Error_1()" NewName="A.c9a4813f414109bc08ccca5ba632711a7.get_Error_1()" />
+<Entry OldName="KeyStatusIndicator.ResRegister.get_Error_12()" NewName="A.c9a4813f414109bc08ccca5ba632711a7.get_Error_12()" />
+<Entry OldName="KeyStatusIndicator.ResRegister.get_Error_4()" NewName="A.c9a4813f414109bc08ccca5ba632711a7.get_Error_4()" />
+<Entry OldName="KeyStatusIndicator.ResRegister.get_Import_search_result()" NewName="A.c9a4813f414109bc08ccca5ba632711a7.get_Import_search_result()" />
+<Entry OldName="KeyStatusIndicator.ResRegister.get_Init_Project()" NewName="A.c9a4813f414109bc08ccca5ba632711a7.get_Init_Project()" />
+<Entry OldName="KeyStatusIndicator.ResRegister.get_MessageTitle()" NewName="A.c9a4813f414109bc08ccca5ba632711a7.get_MessageTitle()" />
+<Entry OldName="KeyStatusIndicator.ResRegister.get_MessageTitle7()" NewName="A.c9a4813f414109bc08ccca5ba632711a7.get_MessageTitle7()" />
+<Entry OldName="KeyStatusIndicator.ResRegister.get_MessageTitle8()" NewName="A.c9a4813f414109bc08ccca5ba632711a7.get_MessageTitle8()" />
+<Entry OldName="KeyStatusIndicator.ResRegister.get_Search_duration_process()" NewName="A.c9a4813f414109bc08ccca5ba632711a7.get_Search_duration_process()" />
+<Entry OldName="KeyStatusIndicator.ResRegister.get_String1()" NewName="A.c9a4813f414109bc08ccca5ba632711a7.get_String1()" />
+<Entry OldName="KeyStatusIndicator.ResRegister.get_Uniform_process()" NewName="A.c9a4813f414109bc08ccca5ba632711a7.get_Uniform_process()" />
+<Entry OldName="KeyStatusIndicator.ResRegister.get_Αλλαγή_Ονόματος()" NewName="A.c9a4813f414109bc08ccca5ba632711a7.get_Αλλαγή_Ονόματος()" />
+<Entry OldName="KeyStatusIndicator.ResRegister.get_Αλλαγή_στοιχείων_εικόνας()" NewName="A.c9a4813f414109bc08ccca5ba632711a7.get_Αλλαγή_στοιχείων_εικόνας()" />
+<Entry OldName="KeyStatusIndicator.ResRegister.get_Αλλαγή_Φίλτρου_Εικόνας()" NewName="A.c9a4813f414109bc08ccca5ba632711a7.get_Αλλαγή_Φίλτρου_Εικόνας()" />
+<Entry OldName="KeyStatusIndicator.ResRegister.get_Ανανέωση_Εικόνας()" NewName="A.c9a4813f414109bc08ccca5ba632711a7.get_Ανανέωση_Εικόνας()" />
+<Entry OldName="KeyStatusIndicator.ResRegister.get_Εισαγωγή_Εικόνας()" NewName="A.c9a4813f414109bc08ccca5ba632711a7.get_Εισαγωγή_Εικόνας()" />
+<Entry OldName="KeyStatusIndicator.ResRegister.get_Εναλλαγή_Εικόνας()" NewName="A.c9a4813f414109bc08ccca5ba632711a7.get_Εναλλαγή_Εικόνας()" />
+<Entry OldName="KeyStatusIndicator.ResRegister.get_Καθορισμός_Ονόματος()" NewName="A.c9a4813f414109bc08ccca5ba632711a7.get_Καθορισμός_Ονόματος()" />
+<Entry OldName="KeyStatusIndicator.ResRegister.get_Μορφοποίηση_Εικόνας()" NewName="A.c9a4813f414109bc08ccca5ba632711a7.get_Μορφοποίηση_Εικόνας()" />
+<Entry OldName="KeyStatusIndicator.ResRegister.get_Νέα_Εικόνα()" NewName="A.c9a4813f414109bc08ccca5ba632711a7.get_Νέα_Εικόνα()" />
+<Entry OldName="KeyStatusIndicator.ResRegister.get_Παράμετροι_Μετρήσεως_Εικόνας()" NewName="A.c9a4813f414109bc08ccca5ba632711a7.get_Παράμετροι_Μετρήσεως_Εικόνας()" />
+<Entry OldName="KeyStatusIndicator.ResRegister.get_Περιγραφή_Ονόματος()" NewName="A.c9a4813f414109bc08ccca5ba632711a7.get_Περιγραφή_Ονόματος()" />
+<Entry OldName="KeyStatusIndicator.ResRegister.get_Πηγή_Εικόνας()" NewName="A.c9a4813f414109bc08ccca5ba632711a7.get_Πηγή_Εικόνας()" />
+<Entry OldName="KeyStatusIndicator.ResRegister.get_Προβολή_Εικόνας_1()" NewName="A.c9a4813f414109bc08ccca5ba632711a7.get_Προβολή_Εικόνας_1()" />
+<Entry OldName="KeyStatusIndicator.ResRegister.get_Προβολή_Εικόνων()" NewName="A.c9a4813f414109bc08ccca5ba632711a7.get_Προβολή_Εικόνων()" />
+<Entry OldName="KeyStatusIndicator.ResRegister.get_Σφάλμα_120()" NewName="A.c9a4813f414109bc08ccca5ba632711a7.get_Σφάλμα_120()" />
+<Entry OldName="KeyStatusIndicator.ResRegister.get_Σφάλμα_1201()" NewName="A.c9a4813f414109bc08ccca5ba632711a7.get_Σφάλμα_1201()" />
+<Entry OldName="KeyStatusIndicator.ResRegister.get_Υπολογισμός_Επιφάνειας()" NewName="A.c9a4813f414109bc08ccca5ba632711a7.get_Υπολογισμός_Επιφάνειας()" />
+<Entry OldName="KeyStatusIndicator.ResRegister.get_Φίλτρο_Εικόνας()" NewName="A.c9a4813f414109bc08ccca5ba632711a7.get_Φίλτρο_Εικόνας()" />
+<Entry OldName="KeyStatusIndicator.ResTranslate..ctor()" NewName="A.ceb0678a74526a145e365e71cf16ebfe2..ctor()" />
+<Entry OldName="KeyStatusIndicator.ResTranslate.get_ResourceManager()" NewName="A.ceb0678a74526a145e365e71cf16ebfe2.get_ResourceManager()" />
+<Entry OldName="KeyStatusIndicator.ResTranslate.get_Culture()" NewName="A.ceb0678a74526a145e365e71cf16ebfe2.get_Culture()" />
+<Entry OldName="KeyStatusIndicator.ResTranslate.set_Culture(CultureInfo value)" NewName="A.ceb0678a74526a145e365e71cf16ebfe2.set_Culture(CultureInfo value)" />
+<Entry OldName="KeyStatusIndicator.TranslateHelper..ctor()" NewName="A.cd2624992d275505bd199bf6c6af9ebed..ctor()" />
+<Entry OldName="KeyStatusIndicator.TranslateHelper..cctor()" NewName="A.cd2624992d275505bd199bf6c6af9ebed..cctor()" />
+<Entry OldName="KeyStatusIndicator.TranslateHelper.Translate(String str)" NewName="A.cd2624992d275505bd199bf6c6af9ebed.c55946435985ee040db32d7eade64143f(String c6dedad108cae751e981e91f9c979bd82)" />
+<Entry OldName="KeyStatusIndicator.ucTextProgressBar.InitializeComponent()" NewName="KeyStatusIndicator.ucTextProgressBar.cafd2f501cf050ca237a3564dc6573d20()" />
+<Entry OldName="KeyStatusIndicator.UpdateHelper.bwCheckVersion_ProgressChanged(Object sender, ProgressChangedEventArgs e)" NewName="KeyStatusIndicator.UpdateHelper.c62c109bc18ac7f006bc09d7ee50bba2e(Object c4aef299ff30766fb518ee6eebb0eab50, ProgressChangedEventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.UpdateHelper.bwCheckVersion_RunWorkerCompleted(Object sender, RunWorkerCompletedEventArgs e)" NewName="KeyStatusIndicator.UpdateHelper.c462be91693678f862559aa8b2850f154(Object c4aef299ff30766fb518ee6eebb0eab50, RunWorkerCompletedEventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.UpdateHelper.bwCheckVersion_DoWork(Object sender, DoWorkEventArgs e)" NewName="KeyStatusIndicator.UpdateHelper.cae005abf937d1cf6fdf762b6a64b03a8(Object c4aef299ff30766fb518ee6eebb0eab50, DoWorkEventArgs c10ca8beeb8267b27b7f86377f2bd5c9f)" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources..ctor()" NewName="A.c996b3ec61f1b99244f180c8fceec9552..ctor()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_ResourceManager()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_ResourceManager()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_Culture()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_Culture()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.set_Culture(CultureInfo value)" NewName="A.c996b3ec61f1b99244f180c8fceec9552.set_Culture(CultureInfo value)" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get__4dots_logo_official()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get__4dots_logo_official()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get__4dots_logo_official_icon()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get__4dots_logo_official_icon()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_about()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_about()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_add()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_add()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_add1()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_add1()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_arrow_down_green()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_arrow_down_green()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_arrow_left_blue()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_arrow_left_blue()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_arrow_right_blue()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_arrow_right_blue()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_arrow_up_green()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_arrow_up_green()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_brush2()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_brush2()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_brush4()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_brush4()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_bullet_ball_glass_blue()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_bullet_ball_glass_blue()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_bullet_ball_glass_blue_16()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_bullet_ball_glass_blue_16()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_bullet_ball_glass_green()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_bullet_ball_glass_green()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_bullet_ball_glass_red()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_bullet_ball_glass_red()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_bullet_ball_glass_yellow()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_bullet_ball_glass_yellow()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_cart_icon_b_24()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_cart_icon_b_24()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_check()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_check()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_copy()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_copy()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_cut()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_cut()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_delete()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_delete()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_delete1()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_delete1()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_disk_blue()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_disk_blue()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_document_into()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_document_into()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_document_preferences()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_document_preferences()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_earth()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_earth()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_edit()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_edit()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_exit()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_exit()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_exit1()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_exit1()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_facebook_24()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_facebook_24()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_facebook_32()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_facebook_32()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_flash()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_flash()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_flash1()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_flash1()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_folder()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_folder()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_folder_add()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_folder_add()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_folder1()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_folder1()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_googleplus_24()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_googleplus_24()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_help2()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_help2()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_import1()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_import1()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_information()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_information()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_key_status_indicator_48()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_key_status_indicator_48()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_key1()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_key1()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_linkedin_24()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_linkedin_24()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_mail()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_mail()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_media_pause()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_media_pause()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_media_stop()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_media_stop()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_navigate_beginning()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_navigate_beginning()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_navigate_end()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_navigate_end()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_preferences()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_preferences()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_twitter_24()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_twitter_24()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_twitter_32()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_twitter_32()" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources.get_warning()" NewName="A.c996b3ec61f1b99244f180c8fceec9552.get_warning()" />
+<Entry OldName="KeyStatusIndicator.ContextMenuHelper" NewName="A.c503043376774f297b1d7fea6ae53d369" />
+<Entry OldName="KeyStatusIndicator.ExceptionHandlersHelper" NewName="A.ca73a19dd809ab28e67ce7281ba031e81" />
+<Entry OldName="KeyStatusIndicator.FuzzyMatch" NewName="A.c4bca70130a253b65aa1c876eb98ca5c7" />
+<Entry OldName="KeyStatusIndicator.ImageComboBox" NewName="A.cd9b5e4984fbe045dad48e9dde7d8ac57" />
+<Entry OldName="KeyStatusIndicator.ComboBoxExItem" NewName="A.cbc9f121cc94c1681457b4c804eaca191" />
+<Entry OldName="KeyStatusIndicator.ImagesViewHelper" NewName="A.cb2dda7adc5f3cb853397ac284bcee3d2" />
+<Entry OldName="KeyStatusIndicator.InputModeHelper" NewName="A.c6188bed2d0cb649dc07fd358c6aa6360" />
+<Entry OldName="KeyStatusIndicator.MiscHelper" NewName="A.cc49ee40fadef87d7517f36bbf316e010" />
+<Entry OldName="KeyStatusIndicator.Module" NewName="A.cc5f8821f4944966f4f90d35a87dd5810" />
+<Entry OldName="KeyStatusIndicator.Program" NewName="A.cc793c98b720dd2fbc5c191273c50e6a1" />
+<Entry OldName="KeyStatusIndicator.ResFlags" NewName="A.cbc2445107f3f03a1de0e9102124ea121" />
+<Entry OldName="KeyStatusIndicator.ResRegister" NewName="A.c9a4813f414109bc08ccca5ba632711a7" />
+<Entry OldName="KeyStatusIndicator.ResTranslate" NewName="A.ceb0678a74526a145e365e71cf16ebfe2" />
+<Entry OldName="KeyStatusIndicator.TranslateHelper" NewName="A.cd2624992d275505bd199bf6c6af9ebed" />
+<Entry OldName="KeyStatusIndicator.Properties.Resources" NewName="A.c996b3ec61f1b99244f180c8fceec9552" />
+<Entry OldName="&lt;PrivateImplementationDetails&gt;+__StaticArrayInitTypeSize=16" NewName="A.c3efd26ccd1b399f95f629c41fbdf3aa0+c5addc71d271330f81f05599f36976a92" />
+<Entry OldName="&lt;PrivateImplementationDetails&gt;" NewName="A.c3efd26ccd1b399f95f629c41fbdf3aa0" />
+<Assembly Name="KeyStatusIndicator"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name="" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="KeyStatusIndicator.ContextMenuHelper" />
+<Method Token="100663298" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663299" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663300" Name="GetVolumeInformation" Variables="PathName;VolumeNameBuffer;VolumeNameSize;VolumeSerialNumber;MaximumComponentLength;FileSystemFlags;FileSystemNameBuffer;FileSystemNameSize;" ParamCnt="8" />
+<Method Token="100663301" Name="DisplayContextMenu" Variables="sfilecontents;init_filepath;txt;strDriveLetter;serNum;maxCompLen;VolLabel;VolFlags;FSName;Ret;elements;reg_key;email;expired;myvl;kx;ky;userkey;encrypted_kleidi_xristi;myar;var1;var2;var3;var4;num_encrypt;first_time;enc2;le;lp;exf;V_30;sr;e;myba;data;key;iv;byteData;enc;tdes;ict;ex;data;key;iv;byteData;enc;tdes;ict;ex;byteData;key;iv;tdes;ict;V_55;ex;V_57;V_58;V_59;V_60;fm;V_62;V_63;ex_l3;" ParamCnt="0" />
+<Method Token="100663302" Name="HideContextMenu" Variables="kx;ky;sfilecontents;myar;elements;reg_key;email;dtfrom;dtlast;expired;ver;newversion;le;lp;sr;e;myba;data;key;iv;byteData;enc;tdes;ict;ex;V_25;iver;icurver;V_28;V_29;f;f;V_32;datfrom;V_34;V_35;V_36;V_37;" ParamCnt="0" />
+<Method Token="100663303" Name="WriteTest" Variables="sfilecontents;data;key;iv;byteData;enc;tdes;ict;ex;sw;" ParamCnt="0" />
+<Method Token="100663304" Name="ParseDate" Variables="datestr;V_0;" ParamCnt="1" />
+<Field Token="67108865" Name="DtFrom" />
+<Field Token="67108866" Name="DtLast" />
+<Field Token="67108867" Name="DtTo" />
+<Field Token="67108868" Name="Ve" />
+<Type Token="33554436" Name="KeyStatusIndicator.CustomForm" />
+<Method Token="100663306" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663307" Name="OnResize" Variables="this;e;V_0;V_1;V_2;V_3;V_4;g;x;y;lgBrush;" ParamCnt="2" />
+<Method Token="100663308" Name="OnPaintBackground" Variables="this;e;V_0;" ParamCnt="2" />
+<Method Token="100663309" Name="OnLoad" Variables="this;e;V_0;co;V_2;V_3;V_4;V_5;ex;V_7;V_8;" ParamCnt="2" />
+<Method Token="100663310" Name="CustomForm_Activated" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663311" Name="OnActivated" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663312" Name="ResizeControls" Variables="this;V_0;k;V_2;k;left;right;top;bottom;height;V_9;j;V_11;V_12;V_13;chk;V_15;chk;V_17;chk;V_19;V_20;" ParamCnt="1" />
+<Method Token="100663313" Name="ResizeChildControls" Variables="this;co;k;V_1;k;left;right;top;bottom;height;V_8;j;V_10;V_11;V_12;chk;V_14;chk;V_16;chk;V_18;V_19;" ParamCnt="2" />
+<Method Token="100663314" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663315" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108869" Name="LoadComplete" />
+<Field Token="67108870" Name="BackGroundImg" />
+<Field Token="67108871" Name="GradientBackground" />
+<Field Token="67108872" Name="tooltip" />
+<Field Token="67108873" Name="components" />
+<Type Token="33554437" Name="KeyStatusIndicator.ExceptionHandlersHelper" />
+<Method Token="100663316" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663317" Name="AddUnhandledExceptionHandlers" Variables="" ParamCnt="0" />
+<Method Token="100663318" Name="myExceptionHandler" Variables="sender;e;ex;" ParamCnt="2" />
+<Method Token="100663319" Name="myThreadExceptionHandler" Variables="sender;e;" ParamCnt="2" />
+<Type Token="33554439" Name="KeyStatusIndicator.frmAbout" />
+<Method Token="100663326" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663327" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663328" Name="frmAbout_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663329" Name="btnClose_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663330" Name="linkLabel1_LinkClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663331" Name="linkLabel2_LinkClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663332" Name="btnBuy_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663333" Name="btnRegister_Click" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663334" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663335" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108875" Name="lblf" />
+<Field Token="67108876" Name="bufluf" />
+<Field Token="67108877" Name="lstbufluf" />
+<Field Token="67108878" Name="LDT" />
+<Field Token="67108879" Name="components" />
+<Field Token="67108880" Name="lblAbout" />
+<Field Token="67108881" Name="btnClose" />
+<Field Token="67108882" Name="pictureBox1" />
+<Field Token="67108883" Name="linkLabel1" />
+<Field Token="67108884" Name="label1" />
+<Field Token="67108885" Name="label2" />
+<Field Token="67108886" Name="linkLabel2" />
+<Field Token="67108887" Name="niceLine1" />
+<Field Token="67108888" Name="niceLine3" />
+<Field Token="67108889" Name="label3" />
+<Field Token="67108890" Name="ullProductWebpage" />
+<Field Token="67108891" Name="btnBuy" />
+<Field Token="67108892" Name="lblRegistered" />
+<Field Token="67108893" Name="btnRegister" />
+<Field Token="67108894" Name="niceLine2" />
+<Field Token="67108895" Name="label4" />
+<Field Token="67108896" Name="lblLicenseKey" />
+<Field Token="67108897" Name="niceLine4" />
+<Field Token="67108898" Name="label5" />
+<Type Token="33554440" Name="KeyStatusIndicator.frmAdeia" />
+<Method Token="100663336" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663337" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663338" Name="btnExit_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663339" Name="OnPaint" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663340" Name="frmAdeia_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663341" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663342" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108899" Name="components" />
+<Field Token="67108900" Name="label1" />
+<Field Token="67108901" Name="btnOK" />
+<Field Token="67108902" Name="label2" />
+<Field Token="67108903" Name="txtEmail" />
+<Field Token="67108904" Name="btnExit" />
+<Field Token="67108905" Name="lblAppName" />
+<Type Token="33554441" Name="KeyStatusIndicator.frmBalloonTip" />
+<Method Token="100663343" Name=".ctor" Variables="this;_locEnum;caption;fontSize;offsetX;offsetY;onColor;offColor;" ParamCnt="8" />
+<Method Token="100663344" Name="ShowBalloon" Variables="this;keyon;bmp;g;V_2;g;emSize;fo;sz;g;emSize;fo;col;drawColor;sb;brushWhite;fontFamily;strformat;szbuf;path;pen;brush;V_20;" ParamCnt="2" />
+<Method Token="100663345" Name="timBalloon_Tick" Variables="this;sender;e;bounds;x;y;offset;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;V_13;V_14;" ParamCnt="3" />
+<Method Token="100663346" Name="DrawGradient" Variables="this;" ParamCnt="1" />
+<Method Token="100663347" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663348" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108906" Name="locEnum" />
+<Field Token="67108907" Name="Caption" />
+<Field Token="67108908" Name="OffsetX" />
+<Field Token="67108909" Name="OffsetY" />
+<Field Token="67108910" Name="FontSize" />
+<Field Token="67108911" Name="KeyOn" />
+<Field Token="67108912" Name="FadeIn" />
+<Field Token="67108913" Name="OnColor" />
+<Field Token="67108914" Name="OffColor" />
+<Field Token="67108915" Name="Count" />
+<Field Token="67108916" Name="components" />
+<Field Token="67108917" Name="timBalloon" />
+<Field Token="67108918" Name="pic" />
+<Type Token="33554442" Name="KeyStatusIndicator.frmDownloadUpdate" />
+<Method Token="100663349" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663350" Name="get_DownloadFile" Variables="this;V_0;spos;file;tempdir;V_4;" ParamCnt="1" />
+<Method Token="100663351" Name="get_DownloadURL" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663352" Name="frmDownloadUpdate_Load" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663353" Name="client_DownloadFileCompleted" Variables="this;sender;e;V_0;ex;" ParamCnt="3" />
+<Method Token="100663354" Name="client_DownloadProgressChanged" Variables="this;sender;e;ukb;umb;V_2;" ParamCnt="3" />
+<Method Token="100663355" Name="GetEXEDownloadURL" Variables="this;durl;V_1;spos;program;V_4;V_5;" ParamCnt="1" />
+<Method Token="100663356" Name="btnCancelDownload_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663357" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663358" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108919" Name="_DownloadFile" />
+<Field Token="67108920" Name="client" />
+<Field Token="67108921" Name="Cancelled" />
+<Field Token="67108922" Name="components" />
+<Field Token="67108923" Name="pgBar" />
+<Field Token="67108924" Name="btnCancelDownload" />
+<Field Token="67108925" Name="bwDownload" />
+<Field Token="67108926" Name="label1" />
+<Field Token="67108927" Name="lblTotalSize" />
+<Type Token="33554443" Name="KeyStatusIndicator.frmError" />
+<Method Token="100663359" Name=".ctor" Variables="this;lbl;txt;" ParamCnt="3" />
+<Method Token="100663360" Name="btnClose_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663361" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663362" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108928" Name="components" />
+<Field Token="67108929" Name="txtError" />
+<Field Token="67108930" Name="pictureBox1" />
+<Field Token="67108931" Name="lblError" />
+<Field Token="67108932" Name="btnClose" />
+<Type Token="33554444" Name="KeyStatusIndicator.frmKeyPressed" />
+<Method Token="100663363" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663364" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663365" Name="frmKeyPressed_FormClosing" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663366" Name="frmKeyPressed_Activated" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663367" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663368" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108933" Name="Instance" />
+<Field Token="67108934" Name="components" />
+<Type Token="33554445" Name="KeyStatusIndicator.frmLanguage" />
+<Method Token="100663369" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663370" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663371" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663372" Name="DownloadLanguage" Variables="langcode;lastversion;languagesdownloaded;resetlangdown;dllfile;downurl;lang_has_been_downloaded;V_3;V_4;V_5;V_6;pr;V_8;V_9;V_10;" ParamCnt="4" />
+<Method Token="100663373" Name="SetLanguages" Variables="" ParamCnt="0" />
+<Method Token="100663374" Name="frmLanguage_Load" Variables="this;sender;e;k;V_1;" ParamCnt="3" />
+<Method Token="100663375" Name="SetLanguage" Variables="lang;setlang;lastversion;languagesdownloaded;resetlangdown;keym;keym2;V_7;V_8;V_9;V_10;V_11;V_12;fl;V_14;V_15;V_16;ex;" ParamCnt="0" />
+<Method Token="100663376" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663377" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108935" Name="LangCodes" />
+<Field Token="67108936" Name="LangDesc" />
+<Field Token="67108937" Name="LangImg" />
+<Field Token="67108938" Name="SelectedLanguageCode" />
+<Field Token="67108939" Name="LangURL" />
+<Field Token="67108940" Name="RegKeyName" />
+<Field Token="67108941" Name="components" />
+<Field Token="67108942" Name="label1" />
+<Field Token="67108943" Name="cmbLanguage" />
+<Field Token="67108944" Name="btnOK" />
+<Type Token="33554446" Name="KeyStatusIndicator.frmMain" />
+<Method Token="100663378" Name=".ctor" Variables="this;k;V_1;V_2;" ParamCnt="1" />
+<Method Token="100663379" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663380" Name="Beep" Variables="freq;duration;" ParamCnt="2" />
+<Method Token="100663381" Name="TestBeeps" Variables="" ParamCnt="0" />
+<Method Token="100663382" Name="timer1_Tick" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663383" Name="timer2_Tick" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663384" Name="timer3_Tick" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663385" Name="LoadSettings" Variables="this;" ParamCnt="1" />
+<Method Token="100663386" Name="SetupOnLoad" Variables="this;ons;offs;lst;key;k;V_5;k;V_7;k;V_9;V_10;V_11;ex;V_13;V_14;ex;" ParamCnt="1" />
+<Method Token="100663387" Name="AdjustSizeLocation" Variables="this;" ParamCnt="1" />
+<Method Token="100663388" Name="SaveSizeLocation" Variables="this;" ParamCnt="1" />
+<Method Token="100663389" Name="AddLanguageMenuItems" Variables="this;k;ti;V_2;V_3;V_4;" ParamCnt="1" />
+<Method Token="100663390" Name="tiLang_Click" Variables="this;sender;e;ti;langcode;k;til;V_4;V_5;k;til;V_8;V_9;" ParamCnt="3" />
+<Method Token="100663391" Name="ChangeLanguage" Variables="this;language_code;maximized;V_1;" ParamCnt="2" />
+<Method Token="100663392" Name="buyApplicationToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663393" Name="enterLicenseKeyToolStripMenuItem_Click" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663394" Name="GetWindowsSounds" Variables="this;syspath;filez;V_2;" ParamCnt="1" />
+<Method Token="100663395" Name="frmMain_Load" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663396" Name="helpGuideToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663397" Name="pleaseDonateToolStripMenuItem1_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663398" Name="dotsSoftwarePRODUCTCATALOGToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663399" Name="aboutToolStripMenuItem_Click" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663400" Name="tiHelpFeedback_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663401" Name="followUsOnTwitterToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663402" Name="visit4dotsSoftwareWebsiteToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663403" Name="checkForNewVersionToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663404" Name="exitToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663405" Name="frmMain_FormClosing" Variables="this;sender;e;procs;k;V_2;k;V_4;k;V_6;k;V_8;" ParamCnt="3" />
+<Method Token="100663406" Name="SaveSettings" Variables="this;ons;offs;k;V_3;V_4;k;V_6;V_7;V_8;V_9;V_10;V_11;V_12;" ParamCnt="1" />
+<Method Token="100663407" Name="btnOnColor_Click" Variables="this;sender;e;cld;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;btn;V_13;V_14;V_15;V_16;V_17;V_18;V_19;V_20;V_21;V_22;" ParamCnt="3" />
+<Method Token="100663408" Name="btnOffColor_Click" Variables="this;sender;e;cld;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;btn;V_13;V_14;V_15;V_16;V_17;V_18;V_19;V_20;V_21;V_22;" ParamCnt="3" />
+<Method Token="100663409" Name="InitializeIcons" Variables="this;procs;onsound;offsound;keyons;keyoffs;mci;k;V_7;k;V_9;k;V_11;k;V_13;k;V_15;V_16;V_17;V_18;p;V_20;V_21;V_22;V_23;V_24;V_25;k;V_27;V_28;kn;" ParamCnt="1" />
+<Method Token="100663410" Name="ColorToString" Variables="this;col;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663411" Name="StringToColor" Variables="this;color;col;V_1;" ParamCnt="2" />
+<Method Token="100663412" Name="btnExit_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663413" Name="ShowIcons" Variables="this;V_0;V_1;V_2;V_3;V_4;" ParamCnt="1" />
+<Method Token="100663414" Name="CreateIcons" Variables="this;g;fIcon;sb;g;fIcon;sb;g;fIcon;sb;g;fIcon;sb;g;fIcon;sb;g;fIcon;sb;g;fIcon;sb;g;fIcon;sb;" ParamCnt="1" />
+<Method Token="100663415" Name="showToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663416" Name="btnOK_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663417" Name="timKey_Tick" Variables="this;sender;e;V_0;k;x;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;V_17;V_18;" ParamCnt="3" />
+<Method Token="100663418" Name="chkRunCurrentUser_CheckedChanged" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663419" Name="chkRunLocalMachine_CheckedChanged" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663420" Name="showApplicationTrayIconToolStripMenuItem_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663421" Name="minimizeToSystemTrayToolStripMenuItem_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663422" Name="frmMain_Resize" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663423" Name="btnBrowseOn_Click" Variables="this;sender;e;opf;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;" ParamCnt="3" />
+<Method Token="100663424" Name="saveSettingsFileToolStripMenuItem_Click" Variables="this;sender;e;sfd;V_1;sw;" ParamCnt="3" />
+<Method Token="100663425" Name="openSettingsFileToolStripMenuItem_Click" Variables="this;sender;e;ofd;V_1;sr;" ParamCnt="3" />
+<Method Token="100663426" Name="StringToBool" Variables="this;str;V_0;" ParamCnt="2" />
+<Method Token="100663427" Name="WndProc" Variables="this;m;V_0;mystr;mytype;arg;V_4;V_5;" ParamCnt="2" />
+<Method Token="100663428" Name="notMain_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663429" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663430" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108945" Name="Instance" />
+<Field Token="67108946" Name="frmCapsLock" />
+<Field Token="67108947" Name="frmNumLock" />
+<Field Token="67108948" Name="frmScrollLock" />
+<Field Token="67108949" Name="frmInsert" />
+<Field Token="67108950" Name="bmpCapsLockOn" />
+<Field Token="67108951" Name="bmpNumLockOn" />
+<Field Token="67108952" Name="bmpScrollLockOn" />
+<Field Token="67108953" Name="bmpInsertOn" />
+<Field Token="67108954" Name="bmpCapsLockOff" />
+<Field Token="67108955" Name="bmpNumLockOff" />
+<Field Token="67108956" Name="bmpScrollLockOff" />
+<Field Token="67108957" Name="bmpInsertOff" />
+<Field Token="67108958" Name="IconCapsLockOn" />
+<Field Token="67108959" Name="IconNumLockOn" />
+<Field Token="67108960" Name="IconScrollLockOn" />
+<Field Token="67108961" Name="IconInsertOn" />
+<Field Token="67108962" Name="IconCapsLockOff" />
+<Field Token="67108963" Name="IconNumLockOff" />
+<Field Token="67108964" Name="IconScrollLockOff" />
+<Field Token="67108965" Name="IconInsertOff" />
+<Field Token="67108966" Name="frmBalloonNum" />
+<Field Token="67108967" Name="frmBalloonCaps" />
+<Field Token="67108968" Name="frmBalloonScroll" />
+<Field Token="67108969" Name="frmBalloonInsert" />
+<Field Token="67108970" Name="lstfrmBaloonTip" />
+<Field Token="67108971" Name="lstKeyNotifyIcon" />
+<Field Token="67108972" Name="lstMCIOn" />
+<Field Token="67108973" Name="lstMCIOff" />
+<Field Token="67108974" Name="IndicateKey" />
+<Field Token="67108975" Name="BeepKey" />
+<Field Token="67108976" Name="dt" />
+<Field Token="67108977" Name="InChangeLanguage" />
+<Field Token="67108978" Name="LoadedOnce" />
+<Field Token="67108979" Name="NumEnabled" />
+<Field Token="67108980" Name="Init" />
+<Field Token="67108981" Name="Init2" />
+<Field Token="67108982" Name="PreviousValues" />
+<Field Token="67108983" Name="InTimer" />
+<Field Token="67108984" Name="components" />
+<Field Token="67108985" Name="menuStrip1" />
+<Field Token="67108986" Name="fileToolStripMenuItem" />
+<Field Token="67108987" Name="exitToolStripMenuItem" />
+<Field Token="67108988" Name="languageToolStripMenuItem" />
+<Field Token="67108989" Name="languages1ToolStripMenuItem" />
+<Field Token="67108990" Name="languages2ToolStripMenuItem" />
+<Field Token="67108991" Name="buyToolStripMenuItem" />
+<Field Token="67108992" Name="buyApplicationToolStripMenuItem" />
+<Field Token="67108993" Name="enterLicenseKeyToolStripMenuItem" />
+<Field Token="67108994" Name="helpToolStripMenuItem" />
+<Field Token="67108995" Name="helpGuideToolStripMenuItem" />
+<Field Token="67108996" Name="pleaseDonateToolStripMenuItem1" />
+<Field Token="67108997" Name="dotsSoftwarePRODUCTCATALOGToolStripMenuItem" />
+<Field Token="67108998" Name="tiHelpFeedback" />
+<Field Token="67108999" Name="checkForNewVersionToolStripMenuItem" />
+<Field Token="67109000" Name="toolStripMenuItem1" />
+<Field Token="67109001" Name="followUsOnTwitterToolStripMenuItem" />
+<Field Token="67109002" Name="visit4dotsSoftwareWebsiteToolStripMenuItem" />
+<Field Token="67109003" Name="aboutToolStripMenuItem" />
+<Field Token="67109004" Name="timer1" />
+<Field Token="67109005" Name="timer2" />
+<Field Token="67109006" Name="timer3" />
+<Field Token="67109007" Name="chkCapsLock" />
+<Field Token="67109008" Name="chkNumLock" />
+<Field Token="67109009" Name="chkInsert" />
+<Field Token="67109010" Name="chkScrollLock" />
+<Field Token="67109011" Name="label1" />
+<Field Token="67109012" Name="btnOnColor" />
+<Field Token="67109013" Name="btnOffColor" />
+<Field Token="67109014" Name="label2" />
+<Field Token="67109015" Name="chkIcon" />
+<Field Token="67109016" Name="chkSystemTray" />
+<Field Token="67109017" Name="chkScreenMessage" />
+<Field Token="67109018" Name="tabControl1" />
+<Field Token="67109019" Name="tabPage1" />
+<Field Token="67109020" Name="tabPage2" />
+<Field Token="67109021" Name="cmbScreenMessage" />
+<Field Token="67109022" Name="label3" />
+<Field Token="67109023" Name="tabPage3" />
+<Field Token="67109024" Name="nudOffsetY" />
+<Field Token="67109025" Name="label5" />
+<Field Token="67109026" Name="nudOffsetX" />
+<Field Token="67109027" Name="label4" />
+<Field Token="67109028" Name="chkBeep" />
+<Field Token="67109029" Name="btnBrowseOff" />
+<Field Token="67109030" Name="btnBrowseOn" />
+<Field Token="67109031" Name="cmbOffSound" />
+<Field Token="67109032" Name="cmbOnSound" />
+<Field Token="67109033" Name="nudFontSize" />
+<Field Token="67109034" Name="label8" />
+<Field Token="67109035" Name="btnOK" />
+<Field Token="67109036" Name="btnExit" />
+<Field Token="67109037" Name="tabPage4" />
+<Field Token="67109038" Name="chkRunLocalMachine" />
+<Field Token="67109039" Name="chkRunCurrentUser" />
+<Field Token="67109040" Name="notMain" />
+<Field Token="67109041" Name="cmsMain" />
+<Field Token="67109042" Name="showToolStripMenuItem" />
+<Field Token="67109043" Name="exitToolStripMenuItem1" />
+<Field Token="67109044" Name="label9" />
+<Field Token="67109045" Name="label10" />
+<Field Token="67109046" Name="label11" />
+<Field Token="67109047" Name="chkOffSound" />
+<Field Token="67109048" Name="chkOnSound" />
+<Field Token="67109049" Name="openSettingsFileToolStripMenuItem" />
+<Field Token="67109050" Name="saveSettingsFileToolStripMenuItem" />
+<Field Token="67109051" Name="tabPage5" />
+<Field Token="67109052" Name="chkNumOffS" />
+<Field Token="67109053" Name="chkNumOnS" />
+<Field Token="67109054" Name="chkNumBeep" />
+<Field Token="67109055" Name="btnBrowseNumOffS" />
+<Field Token="67109056" Name="btnBrowseNumOnS" />
+<Field Token="67109057" Name="cmbNumOffS" />
+<Field Token="67109058" Name="cmbNumOnS" />
+<Field Token="67109059" Name="btnNumColOff" />
+<Field Token="67109060" Name="label6" />
+<Field Token="67109061" Name="btnNumColOn" />
+<Field Token="67109062" Name="label7" />
+<Field Token="67109063" Name="chkNumSpecific" />
+<Field Token="67109064" Name="tabPage6" />
+<Field Token="67109065" Name="chkCapsOffS" />
+<Field Token="67109066" Name="chkCapsOnS" />
+<Field Token="67109067" Name="chkCapsBeep" />
+<Field Token="67109068" Name="btnBrowseCapsOffS" />
+<Field Token="67109069" Name="btnBrowseCapsOnS" />
+<Field Token="67109070" Name="cmbCapsOffS" />
+<Field Token="67109071" Name="cmbCapsOnS" />
+<Field Token="67109072" Name="btnCapsColOff" />
+<Field Token="67109073" Name="label12" />
+<Field Token="67109074" Name="btnCapsColOn" />
+<Field Token="67109075" Name="label13" />
+<Field Token="67109076" Name="chkCapsSpecific" />
+<Field Token="67109077" Name="tabPage7" />
+<Field Token="67109078" Name="chkScrollOffS" />
+<Field Token="67109079" Name="chkScrollOnS" />
+<Field Token="67109080" Name="chkScrollBeep" />
+<Field Token="67109081" Name="btnScrollOffS" />
+<Field Token="67109082" Name="btnScrollOnS" />
+<Field Token="67109083" Name="cmbScrollOffS" />
+<Field Token="67109084" Name="cmbScrollOnS" />
+<Field Token="67109085" Name="btnScrollColOff" />
+<Field Token="67109086" Name="label14" />
+<Field Token="67109087" Name="btnScrollColOn" />
+<Field Token="67109088" Name="label15" />
+<Field Token="67109089" Name="chkScrollSpecific" />
+<Field Token="67109090" Name="tabPage8" />
+<Field Token="67109091" Name="chkInsOffS" />
+<Field Token="67109092" Name="chkInsOns" />
+<Field Token="67109093" Name="chkInsBeep" />
+<Field Token="67109094" Name="btnBrowseInsOffS" />
+<Field Token="67109095" Name="btnBrowseInsOnS" />
+<Field Token="67109096" Name="cmbInsOffS" />
+<Field Token="67109097" Name="cmbInsOn" />
+<Field Token="67109098" Name="btnInsColOff" />
+<Field Token="67109099" Name="label16" />
+<Field Token="67109100" Name="btnInsColOn" />
+<Field Token="67109101" Name="label17" />
+<Field Token="67109102" Name="chkInsSpecific" />
+<Field Token="67109103" Name="timKey" />
+<Field Token="67109104" Name="showApplicationTrayIconToolStripMenuItem" />
+<Field Token="67109105" Name="minimizeToSystemTrayToolStripMenuItem" />
+<Field Token="67109106" Name="toolsToolStripMenuItem" />
+<Field Token="67109107" Name="applySettingsAndStartToolStripMenuItem" />
+<Field Token="67109108" Name="niceLine2" />
+<Field Token="67109109" Name="niceLine1" />
+<Field Token="67109110" Name="chkMinimizeOnOK" />
+<Field Token="67109111" Name="checkForNewVersionEachWeekToolStripMenuItem" />
+<Type Token="33554447" Name="KeyStatusIndicator.frmPurchase" />
+<Method Token="100663431" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663432" Name=".ctor" Variables="this;msgtype;V_0;" ParamCnt="2" />
+<Method Token="100663433" Name=".ctor" Variables="this;msgtype;datefrom;datelast;V_0;V_1;dtfrom;dtlast;key;V_5;key;V_7;V_8;V_9;V_10;V_11;ts;days;V_14;V_15;V_16;V_17;V_18;V_19;V_20;V_21;V_22;f;" ParamCnt="4" />
+<Method Token="100663434" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663435" Name="frmPurchase_Load" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663436" Name="btnRegister_Click" Variables="this;sender;e;f;V_1;" ParamCnt="3" />
+<Method Token="100663437" Name="timContinue_Tick" Variables="this;sender;e;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;" ParamCnt="3" />
+<Method Token="100663438" Name="btnClose_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663439" Name="OnPaint" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663440" Name="btnBuy_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663441" Name="ParseDate" Variables="datestr;V_0;" ParamCnt="1" />
+<Method Token="100663442" Name="btnRegister_Click_1" Variables="this;sender;e;f;V_1;" ParamCnt="3" />
+<Method Token="100663443" Name="btnExit_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663444" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663445" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109112" Name="TrialDay" />
+<Field Token="67109113" Name="RemainingDays" />
+<Field Token="67109114" Name="TimerCount" />
+<Field Token="67109115" Name="RenMove" />
+<Field Token="67109116" Name="btnExitVisible" />
+<Field Token="67109117" Name="Msg" />
+<Field Token="67109118" Name="Datefrom" />
+<Field Token="67109119" Name="Datelast" />
+<Field Token="67109120" Name="Instance" />
+<Field Token="67109121" Name="components" />
+<Field Token="67109122" Name="btnBuy" />
+<Field Token="67109123" Name="lblMsg" />
+<Field Token="67109124" Name="btnClose" />
+<Field Token="67109125" Name="lblWait" />
+<Field Token="67109126" Name="timContinue" />
+<Field Token="67109127" Name="lblAppName" />
+<Field Token="67109128" Name="btnRegister" />
+<Field Token="67109129" Name="btnExit" />
+<Field Token="67109130" Name="label1" />
+<Type Token="33554448" Name="KeyStatusIndicator.DisplayMessageType1" />
+<Field Token="67109131" Name="value__" />
+<Field Token="67109132" Name="License_Expired" />
+<Field Token="67109133" Name="License_N_Days_Remaining" />
+<Type Token="33554450" Name="KeyStatusIndicator.FuzzyMatch" />
+<Method Token="100663449" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663450" Name="ExtractPreviousFuzzyMatch" Variables="helpcolumn;shelp;istart;iend;V_3;V_4;V_5;V_6;" ParamCnt="1" />
+<Method Token="100663451" Name="SetFuzzyHelpColumnText" Variables="fuzzypercent;helpcolumn;shelp;istart;iend;ishelp;V_4;V_5;V_6;V_7;" ParamCnt="2" />
+<Method Token="100663452" Name="IsFuzzyMatchForReport" Variables="sNew;sOld;percent_fuzzy_from;percent_fuzzy_to;V_0;V_1;V_2;l;lp;V_5;" ParamCnt="4" />
+<Method Token="100663453" Name="IsFuzzyMatch" Variables="sNew;sOld;helpcolumn;ff;l;lp;V_3;iprevious;V_5;shelp;f;V_8;V_9;shelp;f;e;" ParamCnt="3" />
+<Type Token="33554451" Name="KeyStatusIndicator.FuzzyMatchResult" />
+<Method Token="100663454" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109135" Name="IsFuzzy" />
+<Field Token="67109136" Name="helpcolumn" />
+<Type Token="33554452" Name="KeyStatusIndicator.Levenshtein" />
+<Method Token="100663455" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663456" Name="iLD" Variables="this;sRow;sCol;RowLen;ColLen;RowIdx;ColIdx;Row_i;Col_j;cost;v0;v1;vTmp;max;V_11;V_12;V_13;V_14;V_15;V_16;V_17;m_min;b;c;V_21;V_22;V_23;V_24;V_25;" ParamCnt="3" />
+<Method Token="100663457" Name="Minimum" Variables="this;a;b;c;mi;V_1;V_2;V_3;" ParamCnt="4" />
+<Method Token="100663458" Name="LD" Variables="this;sNew;sOld;matrix;sNewLen;sOldLen;sNewIdx;sOldIdx;sNew_i;sOld_j;cost;max;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;V_17;V_18;V_19;" ParamCnt="3" />
+<Type Token="33554454" Name="KeyStatusIndicator.ImageComboBox" />
+<Method Token="100663466" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663467" Name="get_ImageList" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663468" Name="set_ImageList" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663469" Name="OnDrawItem" Variables="this;ea;item;imageSize;bounds;V_3;V_4;" ParamCnt="2" />
+<Field Token="67109143" Name="imageList" />
+<Type Token="33554455" Name="KeyStatusIndicator.ComboBoxExItem" />
+<Method Token="100663470" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663471" Name=".ctor" Variables="this;text;" ParamCnt="2" />
+<Method Token="100663472" Name=".ctor" Variables="this;text;imageIndex;" ParamCnt="3" />
+<Method Token="100663473" Name="get_Text" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663474" Name="set_Text" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663475" Name="get_ImageIndex" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663476" Name="set_ImageIndex" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663477" Name="ToString" Variables="this;V_0;" ParamCnt="1" />
+<Field Token="67109144" Name="_text" />
+<Field Token="67109145" Name="_imageIndex" />
+<Type Token="33554456" Name="KeyStatusIndicator.ImagesViewHelper" />
+<Method Token="100663478" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663479" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663480" Name="GetVolumeInformation" Variables="PathName;VolumeNameBuffer;VolumeNameSize;VolumeSerialNumber;MaximumComponentLength;FileSystemFlags;FileSystemNameBuffer;FileSystemNameSize;" ParamCnt="8" />
+<Method Token="100663481" Name="GeneratePreviewItems" Variables="sfilecontents;strDriveLetter;serNum;maxCompLen;VolLabel;VolFlags;FSName;Ret;elements;email;reg_key;myvl;datefrom;datelast;expired;ver;newversion;userkey;encrypted_kleidi_xristi;kx;ky;myar;var1;var2;var3;var4;num_encrypt;first_time;enc2;le;lp;sr;e;myba;data;key;iv;byteData;enc;tdes;ict;ex;V_42;iver;icurver;V_45;V_46;datfrom1;V_48;data;key;iv;byteData;enc;tdes;ict;ex;byteData;key;iv;tdes;ict;V_62;ex;V_64;V_65;V_66;dtfrom;dtlast;key;V_70;key;V_72;V_73;V_74;V_75;V_76;" ParamCnt="0" />
+<Method Token="100663482" Name="ParseDate" Variables="datestr;V_0;" ParamCnt="1" />
+<Field Token="67109146" Name="DtFrom" />
+<Field Token="67109147" Name="DtLast" />
+<Type Token="33554457" Name="KeyStatusIndicator.SettingsHelper" />
+<Method Token="100663483" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663484" Name=".cctor" Variables="" ParamCnt="0" />
+<Field Token="67109148" Name="RenMove" />
+<Type Token="33554458" Name="KeyStatusIndicator.InputModeHelper" />
+<Method Token="100663485" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663486" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663487" Name="GetVolumeInformation" Variables="PathName;VolumeNameBuffer;VolumeNameSize;VolumeSerialNumber;MaximumComponentLength;FileSystemFlags;FileSystemNameBuffer;FileSystemNameSize;" ParamCnt="8" />
+<Method Token="100663488" Name="AnalyzeSearch" Variables="email;serNum;maxCompLen;VolLabel;VolFlags;FSName;strDriveLetter;Ret;myvl;userkey;encrypted_kleidi_xristi;postCgi;dataLine;data;key;iv;byteData;enc;tdes;ict;ex;uri;request;bytes;outputStream;response;responseStream;reader;exp;V_29;V_30;reg_key;sfilecontents;elements;licfile;sr;myba;data;key;iv;byteData;enc;tdes;ict;ex;k;V_46;V_47;V_48;data;key;iv;byteData;enc;tdes;ict;ex;sw;e;exmain;" ParamCnt="0" />
+<Method Token="100663489" Name="Bin2Hex" Variables="bin;sb;V_1;V_2;b;V_4;" ParamCnt="1" />
+<Field Token="67109149" Name="frmad" />
+<Type Token="33554459" Name="KeyStatusIndicator.KeyNotifyIcon" />
+<Method Token="100663490" Name=".ctor" Variables="this;caption;description;onColor;offColor;bmpOn;bmpOff;g;fIcon;sb;g;fIcon;sb;" ParamCnt="5" />
+<Method Token="100663491" Name="ShowOn" Variables="this;" ParamCnt="1" />
+<Method Token="100663492" Name="ShowOff" Variables="this;" ParamCnt="1" />
+<Field Token="67109150" Name="notIcon" />
+<Field Token="67109151" Name="icoOn" />
+<Field Token="67109152" Name="icoOff" />
+<Type Token="33554460" Name="KeyStatusIndicator.MciAudio" />
+<Method Token="100663493" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663494" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663495" Name="mciSendString" Variables="strCommand;strReturn;iReturnLength;oCallback;" ParamCnt="4" />
+<Method Token="100663496" Name="Initialize" Variables="this;" ParamCnt="1" />
+<Method Token="100663497" Name="Open" Variables="this;OpenRecorderCommand;" ParamCnt="1" />
+<Method Token="100663498" Name="Record" Variables="this;RecordCommand;" ParamCnt="1" />
+<Method Token="100663499" Name="Pause" Variables="this;PauseCommand;" ParamCnt="1" />
+<Method Token="100663500" Name="Play" Variables="this;PlayCommandFormat;PlayCommand;" ParamCnt="1" />
+<Method Token="100663501" Name="OpenPlay" Variables="this;OpenPlayCommandFormat;OpenPlayCommand;" ParamCnt="1" />
+<Method Token="100663502" Name="Stop" Variables="this;StopCommand;" ParamCnt="1" />
+<Method Token="100663503" Name="StopPlay" Variables="this;StopPlayCommandFormat;StopPlayCommand;" ParamCnt="1" />
+<Method Token="100663504" Name="Close" Variables="this;CloseRecorderCommand;" ParamCnt="1" />
+<Method Token="100663505" Name="ClosePlay" Variables="this;ClosePlayCommandFormat;ClosePlayCommand;" ParamCnt="1" />
+<Method Token="100663506" Name="SaveRecording" Variables="this;fileName;SaveCommandFormat;" ParamCnt="2" />
+<Method Token="100663507" Name="SetVolume" Variables="this;volume;" ParamCnt="2" />
+<Method Token="100663508" Name="IsPlaying" Variables="this;cmd;returnData;V_2;V_3;" ParamCnt="1" />
+<Field Token="67109153" Name="ik" />
+<Field Token="67109154" Name="k" />
+<Field Token="67109155" Name="SoundRecordingDeviceId" />
+<Field Token="67109156" Name="PlayMediaFile" />
+<Field Token="67109157" Name="OpenCommandFormat" />
+<Field Token="67109158" Name="RecordCommandFormat" />
+<Field Token="67109159" Name="PauseCommandFormat" />
+<Field Token="67109160" Name="StopCommandFormat" />
+<Field Token="67109161" Name="CloseCommandFormat" />
+<Field Token="67109162" Name="SaveCommandFormatFormat" />
+<Type Token="33554461" Name="KeyStatusIndicator.MessageHelper" />
+<Method Token="100663509" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663510" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663511" Name="SendMessage" Variables="hWnd;Msg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663512" Name="RegisterWindowMessage" Variables="lpString;" ParamCnt="1" />
+<Method Token="100663513" Name="FindWindow" Variables="lpClassName;lpWindowName;" ParamCnt="2" />
+<Method Token="100663514" Name="SendMessage" Variables="hWnd;Msg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663515" Name="PostMessage" Variables="hWnd;Msg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663516" Name="SendMessage" Variables="hWnd;Msg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663517" Name="PostMessage" Variables="hWnd;Msg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663518" Name="SetForegroundWindow" Variables="hWnd;" ParamCnt="1" />
+<Method Token="100663519" Name="bringAppToFront" Variables="this;hWnd;V_0;" ParamCnt="2" />
+<Method Token="100663520" Name="sendWindowsStringMessage" Variables="this;hWnd;wParam;msg;result;V_1;sarr;len;cds;V_5;" ParamCnt="4" />
+<Method Token="100663521" Name="sendWindowsMessage" Variables="this;hWnd;Msg;wParam;lParam;result;V_1;V_2;" ParamCnt="5" />
+<Method Token="100663522" Name="getWindowId" Variables="this;className;windowName;V_0;" ParamCnt="3" />
+<Field Token="67109163" Name="WM_USER" />
+<Field Token="67109164" Name="WM_COPYDATA" />
+<Field Token="67109165" Name="HWND_BROADCAST" />
+<Field Token="67109166" Name="WM_ACTIVATEAPP" />
+<Type Token="33554462" Name="KeyStatusIndicator.MiscHelper" />
+<Method Token="100663523" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663524" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663525" Name="CurrentDomain_ProcessExit" Variables="sender;e;fi;dt_create;dt_last_modified;dt_last_accessed;sfilecontents;elements;reg_key;email;licfile;fi_after;sr;myba;data;key;iv;byteData;enc;tdes;ict;ex;k;V_21;dtfrom;V_23;V_24;V_25;V_26;V_27;mili;V_29;V_30;elm;V_32;V_33;V_34;data;key;iv;byteData;enc;tdes;ict;ex;sw;V_44;key;V_46;V_47;" ParamCnt="2" />
+<Method Token="100663526" Name="ParseDate" Variables="datestr;V_0;" ParamCnt="1" />
+<Field Token="67109167" Name="DateTimeFormat" />
+<Type Token="33554463" Name="KeyStatusIndicator.Module" />
+<Method Token="100663527" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663528" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663529" Name="get_TempFolder" Variables="path;V_1;V_2;" ParamCnt="0" />
+<Method Token="100663530" Name="SendMessage" Variables="hWnd;wMsg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663531" Name="LockWindowUpdate" Variables="hWndLock;" ParamCnt="1" />
+<Method Token="100663532" Name="WaitNMSeconds" Variables="mseconds;_desired;V_1;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663533" Name="IsLegalFilename" Variables="name;fileInfo;V_1;" ParamCnt="1" />
+<Method Token="100663534" Name="GetRelativePath" Variables="mainDirPath;absoluteFilePath;firstPathParts;secondPathParts;sameCounter;newPath;i;V_5;V_6;V_7;V_8;i;V_10;V_11;V_12;V_13;i;V_15;" ParamCnt="2" />
+<Method Token="100663535" Name="RunAdminAction" Variables="args;pr;V_1;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663536" Name="ShowMessage" Variables="msg;" ParamCnt="1" />
+<Method Token="100663537" Name="ShowQuestionDialog" Variables="msg;caption;V_0;" ParamCnt="2" />
+<Method Token="100663538" Name="ShowError" Variables="ex;" ParamCnt="1" />
+<Method Token="100663539" Name="ShowError" Variables="msg;f;" ParamCnt="1" />
+<Method Token="100663540" Name="ShowError" Variables="msg;ex;" ParamCnt="2" />
+<Method Token="100663541" Name="ShowError" Variables="msg;exstr;" ParamCnt="2" />
+<Method Token="100663542" Name="CurrentDomain_ProcessExit" Variables="sender;e;" ParamCnt="2" />
+<Method Token="100663543" Name="ShowQuestionDialogYesFocus" Variables="msg;caption;V_0;" ParamCnt="2" />
+<Method Token="100663544" Name="get_Modex64" Variables="V_0;V_1;V_2;V_3;V_4;" ParamCnt="0" />
+<Method Token="100663545" Name="DownloadPage" Variables="uri;client;data;reader;s;V_4;ex;" ParamCnt="1" />
+<Method Token="100663546" Name="get_IsWindows64Bit" Variables="p;V_1;V_2;V_3;" ParamCnt="0" />
+<Method Token="100663547" Name="DeleteApplicationSettingsFile" Variables="settingsFile;fi;V_2;ex;" ParamCnt="0" />
+<Field Token="67109168" Name="ApplicationName" />
+<Field Token="67109169" Name="Version" />
+<Field Token="67109170" Name="Ver" />
+<Field Token="67109171" Name="ShortApplicationTitle" />
+<Field Token="67109172" Name="ApplicationTitle" />
+<Field Token="67109173" Name="DownloadURL" />
+<Field Token="67109174" Name="HelpURL" />
+<Field Token="67109175" Name="ProductWebpageURL" />
+<Field Token="67109176" Name="BuyURL" />
+<Field Token="67109177" Name="VersionURL" />
+<Field Token="67109178" Name="TipText" />
+<Field Token="67109179" Name="HideMode" />
+<Field Token="67109180" Name="AppDataDirectory" />
+<Field Token="67109181" Name="SelectedLanguage" />
+<Field Token="67109182" Name="args" />
+<Field Token="67109183" Name="_Modex64" />
+<Type Token="33554464" Name="KeyStatusIndicator.NiceLine" />
+<Method Token="100663548" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663549" Name="get_Caption" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663550" Name="set_Caption" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663551" Name="get_CaptionMarginSpace" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663552" Name="set_CaptionMarginSpace" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663553" Name="get_CaptionPadding" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663554" Name="set_CaptionPadding" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663555" Name="get_LineVerticalAlign" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663556" Name="set_LineVerticalAlign" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663557" Name="get_CaptionOrizontalAlign" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663558" Name="set_CaptionOrizontalAlign" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663559" Name="Dispose" Variables="this;disposing;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663560" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Method Token="100663561" Name="OnPaint" Variables="this;e;ym;captionSizeF;captionLength;beforeCaption;afterCaption;V_5;V_6;V_7;V_8;V_9;V_10;V_11;" ParamCnt="2" />
+<Method Token="100663562" Name="OnResize" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663563" Name="OnFontChanged" Variables="this;e;" ParamCnt="2" />
+<Field Token="67109184" Name="components" />
+<Field Token="67109185" Name="_Caption" />
+<Field Token="67109186" Name="_CaptionMarginSpace" />
+<Field Token="67109187" Name="_CaptionPadding" />
+<Field Token="67109188" Name="_LineVerticalAlign" />
+<Field Token="67109189" Name="_CaptionOrizontalAlign" />
+<Type Token="33554465" Name="KeyStatusIndicator.LineVerticalAlign" />
+<Field Token="67109190" Name="value__" />
+<Field Token="67109191" Name="Top" />
+<Field Token="67109192" Name="Middle" />
+<Field Token="67109193" Name="Bottom" />
+<Type Token="33554466" Name="KeyStatusIndicator.CaptionOrizontalAlign" />
+<Field Token="67109194" Name="value__" />
+<Field Token="67109195" Name="Left" />
+<Field Token="67109196" Name="Center" />
+<Field Token="67109197" Name="Right" />
+<Type Token="33554467" Name="KeyStatusIndicator.Program" />
+<Method Token="100663564" Name="Main" Variables="args;V_0;V_1;" ParamCnt="1" />
+<Method Token="100663565" Name="ActivateIfApplicationIsRunning" Variables="applicationName;procs;ialive;k;V_3;V_4;V_5;V_6;msg;result;hWnd;k;V_11;V_12;V_13;V_14;V_15;" ParamCnt="1" />
+<Type Token="33554468" Name="KeyStatusIndicator.ResFlags" />
+<Method Token="100663566" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663567" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
+<Method Token="100663568" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663569" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663570" Name="get_flag_albania" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663571" Name="get_flag_belarus" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663572" Name="get_flag_bulgaria" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663573" Name="get_flag_china" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663574" Name="get_flag_croatia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663575" Name="get_flag_czech_republic" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663576" Name="get_flag_denmark" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663577" Name="get_flag_estonia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663578" Name="get_flag_finland" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663579" Name="get_flag_france" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663580" Name="get_flag_georgia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663581" Name="get_flag_germany" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663582" Name="get_flag_great_britain" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663583" Name="get_flag_greece" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663584" Name="get_flag_hungary" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663585" Name="get_flag_iceland" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663586" Name="get_flag_india" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663587" Name="get_flag_indonesia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663588" Name="get_flag_iran" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663589" Name="get_flag_ireland" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663590" Name="get_flag_israel" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663591" Name="get_flag_italy" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663592" Name="get_flag_japan" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663593" Name="get_flag_kenya" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663594" Name="get_flag_latvia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663595" Name="get_flag_lithuania" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663596" Name="get_flag_netherlands" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663597" Name="get_flag_norway" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663598" Name="get_flag_pakistan" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663599" Name="get_flag_philippines" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663600" Name="get_flag_poland" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663601" Name="get_flag_portugal" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663602" Name="get_flag_romania" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663603" Name="get_flag_russia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663604" Name="get_flag_saudi_arabia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663605" Name="get_flag_serbia_montenegro" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663606" Name="get_flag_slovakia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663607" Name="get_flag_slovenia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663608" Name="get_flag_south_africa" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663609" Name="get_flag_south_korea" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663610" Name="get_flag_spain" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663611" Name="get_flag_sweden" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663612" Name="get_flag_taiwan" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663613" Name="get_flag_thailand" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663614" Name="get_flag_turkey" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663615" Name="get_flag_ukraine" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663616" Name="get_flag_vietnam" Variables="obj;V_1;" ParamCnt="0" />
+<Field Token="67109198" Name="resourceMan" />
+<Field Token="67109199" Name="resourceCulture" />
+<Type Token="33554469" Name="KeyStatusIndicator.ResRegister" />
+<Method Token="100663617" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663618" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
+<Method Token="100663619" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663620" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663621" Name="get_Add_new_search_item_to_project" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663622" Name="get_Continue_activated_search_" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663623" Name="get_Direct_search_started" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663624" Name="get_Edit_4dots_Project" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663625" Name="get_Erroneous_search_2" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663626" Name="get_Error_1" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663627" Name="get_Error_12" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663628" Name="get_Error_4" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663629" Name="get_Import_search_result" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663630" Name="get_Init_Project" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663631" Name="get_MessageTitle" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663632" Name="get_MessageTitle7" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663633" Name="get_MessageTitle8" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663634" Name="get_Search_duration_process" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663635" Name="get_String1" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663636" Name="get_Uniform_process" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663637" Name="get_Αλλαγή_Ονόματος" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663638" Name="get_Αλλαγή_στοιχείων_εικόνας" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663639" Name="get_Αλλαγή_Φίλτρου_Εικόνας" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663640" Name="get_Ανανέωση_Εικόνας" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663641" Name="get_Εισαγωγή_Εικόνας" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663642" Name="get_Εναλλαγή_Εικόνας" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663643" Name="get_Καθορισμός_Ονόματος" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663644" Name="get_Μορφοποίηση_Εικόνας" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663645" Name="get_Νέα_Εικόνα" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663646" Name="get_Παράμετροι_Μετρήσεως_Εικόνας" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663647" Name="get_Περιγραφή_Ονόματος" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663648" Name="get_Πηγή_Εικόνας" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663649" Name="get_Προβολή_Εικόνας_1" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663650" Name="get_Προβολή_Εικόνων" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663651" Name="get_Σφάλμα_120" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663652" Name="get_Σφάλμα_1201" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663653" Name="get_Υπολογισμός_Επιφάνειας" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663654" Name="get_Φίλτρο_Εικόνας" Variables="V_0;" ParamCnt="0" />
+<Field Token="67109200" Name="resourceMan" />
+<Field Token="67109201" Name="resourceCulture" />
+<Type Token="33554470" Name="KeyStatusIndicator.ResTranslate" />
+<Method Token="100663655" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663656" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
+<Method Token="100663657" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663658" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Field Token="67109202" Name="resourceMan" />
+<Field Token="67109203" Name="resourceCulture" />
+<Type Token="33554471" Name="KeyStatusIndicator.TranslateHelper" />
+<Method Token="100663659" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663660" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663661" Name="Translate" Variables="str;V_0;V_1;V_2;cm;V_4;cm;trnstr;V_7;V_8;V_9;V_10;V_11;V_12;" ParamCnt="1" />
+<Field Token="67109204" Name="rm" />
+<Field Token="67109205" Name="rm2" />
+<Type Token="33554472" Name="KeyStatusIndicator.ucTextProgressBar" />
+<Method Token="100663662" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663663" Name="SetText" Variables="this;str;V_0;" ParamCnt="2" />
+<Method Token="100663664" Name="UpdatePercentage" Variables="this;curval;maxval;perc;" ParamCnt="1" />
+<Method Token="100663665" Name="zOnPaint" Variables="this;e;curval;maxval;perc;rangerect;font;brBack;V_6;fillBrush;sPoint;V_9;p;" ParamCnt="2" />
+<Method Token="100663666" Name="WndProc" Variables="this;m;V_0;V_1;graphics;font;textSize;" ParamCnt="2" />
+<Method Token="100663667" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663668" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67109206" Name="lblText" />
+<Field Token="67109207" Name="WmPaint" />
+<Field Token="67109208" Name="components" />
+<Type Token="33554473" Name="KeyStatusIndicator.UpdateHelper" />
+<Method Token="100663669" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663670" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663671" Name="InitializeCheckVersionWeek" Variables="lastcheck;V_1;month;day;year;dtlast;V_6;V_7;V_8;" ParamCnt="0" />
+<Method Token="100663672" Name="InitializeCheckVersion" Variables="" ParamCnt="0" />
+<Method Token="100663673" Name="bwCheckVersion_ProgressChanged" Variables="sender;e;res;V_1;V_2;V_3;fdu;resq;V_6;fdu;" ParamCnt="2" />
+<Method Token="100663674" Name="bwCheckVersion_RunWorkerCompleted" Variables="sender;e;" ParamCnt="2" />
+<Method Token="100663675" Name="bwCheckVersion_DoWork" Variables="sender;e;res;" ParamCnt="2" />
+<Method Token="100663676" Name="CheckVersionBackground" Variables="onstart;res;str;V_3;V_4;V_5;epos;price;V_8;sr;line;found;epos;title;version;app;V_16;verdotpos;vermajor;verminor;curverepos;V_21;curver;dotpos;curmajor;curminor;V_26;V_27;V_28;V_29;V_30;V_31;V_32;V_33;V_34;" ParamCnt="0" />
+<Method Token="100663677" Name="DownloadPage" Variables="uri;client;data;reader;s;V_4;ex;" ParamCnt="1" />
+<Method Token="100663678" Name="CheckVersion" Variables="onstart;str;V_1;sr;line;found;epos;title;version;app;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;" ParamCnt="1" />
+<Field Token="67109209" Name="bwCheckVersion" />
+<Type Token="33554474" Name="KeyStatusIndicator.CheckVersionResult" />
+<Method Token="100663679" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109210" Name="NewVersionReleased" />
+<Field Token="67109211" Name="ItIsNecessaryToUpdate" />
+<Field Token="67109212" Name="OutputMessage" />
+<Type Token="33554475" Name="KeyStatusIndicator.URLLinkLabel" />
+<Method Token="100663680" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663681" Name="OnClick" Variables="this;e;" ParamCnt="2" />
+<Type Token="33554476" Name="KeyStatusIndicator.Properties.Resources" />
+<Method Token="100663682" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663683" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
+<Method Token="100663684" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663685" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663686" Name="get__4dots_logo_official" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663687" Name="get__4dots_logo_official_icon" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663688" Name="get_about" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663689" Name="get_add" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663690" Name="get_add1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663691" Name="get_arrow_down_green" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663692" Name="get_arrow_left_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663693" Name="get_arrow_right_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663694" Name="get_arrow_up_green" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663695" Name="get_brush2" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663696" Name="get_brush4" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663697" Name="get_bullet_ball_glass_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663698" Name="get_bullet_ball_glass_blue_16" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663699" Name="get_bullet_ball_glass_green" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663700" Name="get_bullet_ball_glass_red" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663701" Name="get_bullet_ball_glass_yellow" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663702" Name="get_cart_icon_b_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663703" Name="get_check" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663704" Name="get_copy" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663705" Name="get_cut" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663706" Name="get_delete" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663707" Name="get_delete1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663708" Name="get_disk_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663709" Name="get_document_into" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663710" Name="get_document_preferences" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663711" Name="get_earth" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663712" Name="get_edit" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663713" Name="get_exit" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663714" Name="get_exit1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663715" Name="get_facebook_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663716" Name="get_facebook_32" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663717" Name="get_flash" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663718" Name="get_flash1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663719" Name="get_folder" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663720" Name="get_folder_add" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663721" Name="get_folder1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663722" Name="get_googleplus_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663723" Name="get_help2" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663724" Name="get_import1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663725" Name="get_information" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663726" Name="get_key_status_indicator_48" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663727" Name="get_key1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663728" Name="get_linkedin_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663729" Name="get_mail" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663730" Name="get_media_pause" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663731" Name="get_media_stop" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663732" Name="get_navigate_beginning" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663733" Name="get_navigate_end" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663734" Name="get_preferences" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663735" Name="get_twitter_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663736" Name="get_twitter_32" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663737" Name="get_warning" Variables="obj;V_1;" ParamCnt="0" />
+<Field Token="67109213" Name="resourceMan" />
+<Field Token="67109214" Name="resourceCulture" />
+<Type Token="33554477" Name="KeyStatusIndicator.Properties.Settings" />
+<Method Token="100663738" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663739" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663740" Name="get_Default" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663741" Name="get_Price" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663742" Name="set_Price" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663743" Name="get_Language" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663744" Name="set_Language" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663745" Name="get_LastCheckVersion" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663746" Name="set_LastCheckVersion" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663747" Name="get_CapsLock" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663748" Name="set_CapsLock" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663749" Name="get_NumLock" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663750" Name="set_NumLock" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663751" Name="get_Insert" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663752" Name="set_Insert" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663753" Name="get_ScrollLock" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663754" Name="set_ScrollLock" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663755" Name="get_OnColor" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663756" Name="set_OnColor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663757" Name="get_OffColor" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663758" Name="set_OffColor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663759" Name="get_Beep" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663760" Name="set_Beep" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663761" Name="get_OffsetX" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663762" Name="set_OffsetX" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663763" Name="get_OffsetY" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663764" Name="set_OffsetY" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663765" Name="get_ScreenMsgLocation" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663766" Name="set_ScreenMsgLocation" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663767" Name="get_Icon" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663768" Name="set_Icon" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663769" Name="get_SystemTrayIcon" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663770" Name="set_SystemTrayIcon" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663771" Name="get_ScreenMessage" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663772" Name="set_ScreenMessage" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663773" Name="get_OnFilepath" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663774" Name="set_OnFilepath" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663775" Name="get_OffFilepath" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663776" Name="set_OffFilepath" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663777" Name="get_RecentOnFilepath" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663778" Name="set_RecentOnFilepath" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663779" Name="get_RecentOffFilepath" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663780" Name="set_RecentOffFilepath" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663781" Name="get_ScreenMsgFontSize" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663782" Name="set_ScreenMsgFontSize" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663783" Name="get_OnSound" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663784" Name="set_OnSound" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663785" Name="get_OffSound" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663786" Name="set_OffSound" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663787" Name="get_NumLockOnSound" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663788" Name="set_NumLockOnSound" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663789" Name="get_NumLockOffSound" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663790" Name="set_NumLockOffSound" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663791" Name="get_NumLockOnColor" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663792" Name="set_NumLockOnColor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663793" Name="get_NumLockOffColor" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663794" Name="set_NumLockOffColor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663795" Name="get_CapsLockOnSound" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663796" Name="set_CapsLockOnSound" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663797" Name="get_CapsLockOffSound" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663798" Name="set_CapsLockOffSound" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663799" Name="get_CapsLockOnColor" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663800" Name="set_CapsLockOnColor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663801" Name="get_CapsLockOffColor" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663802" Name="set_CapsLockOffColor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663803" Name="get_ScrollLockOnSound" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663804" Name="set_ScrollLockOnSound" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663805" Name="get_ScrollLockOffSound" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663806" Name="set_ScrollLockOffSound" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663807" Name="get_ScrollLockOnColor" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663808" Name="set_ScrollLockOnColor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663809" Name="get_ScrollLockOffColor" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663810" Name="set_ScrollLockOffColor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663811" Name="get_InsertOnSound" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663812" Name="set_InsertOnSound" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663813" Name="get_InsertOffSound" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663814" Name="set_InsertOffSound" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663815" Name="get_InsertOnColor" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663816" Name="set_InsertOnColor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663817" Name="get_InsertOffColor" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663818" Name="set_InsertOffColor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663819" Name="get_SpecialNum" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663820" Name="set_SpecialNum" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663821" Name="get_SpecialCaps" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663822" Name="set_SpecialCaps" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663823" Name="get_SpecialScroll" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663824" Name="set_SpecialScroll" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663825" Name="get_SpecialInsert" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663826" Name="set_SpecialInsert" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663827" Name="get_BeepNum" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663828" Name="set_BeepNum" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663829" Name="get_BeepCaps" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663830" Name="set_BeepCaps" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663831" Name="get_BeepScroll" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663832" Name="set_BeepScroll" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663833" Name="get_BeepInsert" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663834" Name="set_BeepInsert" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663835" Name="get_RunStartupCU" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663836" Name="set_RunStartupCU" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663837" Name="get_RunStartupLM" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663838" Name="set_RunStartupLM" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663839" Name="get_ShowTrayIcon" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663840" Name="set_ShowTrayIcon" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663841" Name="get_MinimizeSystemTray" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663842" Name="set_MinimizeSystemTray" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663843" Name="get_chkNumOnS" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663844" Name="set_chkNumOnS" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663845" Name="get_chkNumOffS" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663846" Name="set_chkNumOffS" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663847" Name="get_chkCapsOnS" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663848" Name="set_chkCapsOnS" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663849" Name="get_chkCapsOffS" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663850" Name="set_chkCapsOffS" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663851" Name="get_chkScrollOnS" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663852" Name="set_chkScrollOnS" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663853" Name="get_chkScrollOffS" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663854" Name="set_chkScrollOffS" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663855" Name="get_chkInsOnS" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663856" Name="set_chkInsOnS" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663857" Name="get_chkInsOffS" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663858" Name="set_chkInsOffS" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663859" Name="get_MinimizeOnOK" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663860" Name="set_MinimizeOnOK" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663861" Name="get_CheckWeek" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663862" Name="set_CheckWeek" Variables="this;value;" ParamCnt="2" />
+<Field Token="67109215" Name="defaultInstance" />
+<Type Token="33554478" Name="&lt;PrivateImplementationDetails&gt;" />
+<Field Token="67109216" Name="6792D46EC7C4B38E9D71069E70F83D582CDB6FBDCE8CF6E275CD41546855DB2E" />
+<Type Token="33554479" Name="KeyStatusIndicator.frmBalloonTip/LocationEnum" />
+<Field Token="67109217" Name="value__" />
+<Field Token="67109218" Name="locTopLeft" />
+<Field Token="67109219" Name="locTopRight" />
+<Field Token="67109220" Name="locTopCenter" />
+<Field Token="67109221" Name="locBottomLeft" />
+<Field Token="67109222" Name="locBottomRight" />
+<Field Token="67109223" Name="locBottomCenter" />
+<Field Token="67109224" Name="locMiddleLeft" />
+<Field Token="67109225" Name="locMiddleRight" />
+<Field Token="67109226" Name="locMiddleCenter" />
+<Type Token="33554480" Name="KeyStatusIndicator.MessageHelper/COPYDATASTRUCT" />
+<Field Token="67109227" Name="dwData" />
+<Field Token="67109228" Name="cbData" />
+<Field Token="67109229" Name="lpData" />
+<Type Token="33554481" Name="&lt;PrivateImplementationDetails&gt;/__StaticArrayInitTypeSize=16" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663305" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly></Mappings>

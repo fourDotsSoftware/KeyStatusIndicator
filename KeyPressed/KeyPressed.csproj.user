@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>"CAP" "000-192-000" "255-000-000" "False" "C:\WINDOWS\media\chord.wav" "C:\WINDOWS\media\ding.wav"</StartArguments>
+  </PropertyGroup>
+</Project>
